@@ -8,6 +8,14 @@ Spoken versions of my daily dashboard briefings, refreshed every morning at 08:4
 | Middle East | https://raw.githubusercontent.com/ivarjansen8-web/briefings-audio/main/mena.txt |
 | Government | https://raw.githubusercontent.com/ivarjansen8-web/briefings-audio/main/govt.txt |
 | Classics | https://raw.githubusercontent.com/ivarjansen8-web/briefings-audio/main/classics.txt |
+| Daily Middle East Briefing | https://raw.githubusercontent.com/ivarjansen8-web/briefings-audio/main/meb.txt |
+| Horn of Africa briefing | https://raw.githubusercontent.com/ivarjansen8-web/briefings-audio/main/horn.txt |
+| Sahel briefing | https://raw.githubusercontent.com/ivarjansen8-web/briefings-audio/main/sahel.txt |
+| Rwanda and Congo briefing | https://raw.githubusercontent.com/ivarjansen8-web/briefings-audio/main/glr.txt |
+| US briefing | https://raw.githubusercontent.com/ivarjansen8-web/briefings-audio/main/usb.txt |
+| Netherlands briefing | https://raw.githubusercontent.com/ivarjansen8-web/briefings-audio/main/nlb.txt |
+| EU news briefing | https://raw.githubusercontent.com/ivarjansen8-web/briefings-audio/main/eub.txt |
+| Israel briefing | https://raw.githubusercontent.com/ivarjansen8-web/briefings-audio/main/ilb.txt |
 
 Briefings you add yourself on the dashboard get their own file, `<id>.txt`; the dashboard shows each briefing's link.
 
