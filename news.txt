@@ -1,187 +1,103 @@
-Here is your daily news briefing for Monday, 9 November.
+Here is your daily news briefing for Tuesday, 10 November.
 
-Daily News Briefing: Democrats take Congress, Eisenkot tasked in Israel, G7 and Abu Dhabi Ukraine talks.
+Tentative US–Iran deal announced; Hegseth impeachment vote looms; Abu Dhabi Ukraine talks begin.
 
-Run note: search coverage was thinner than usual today (the web-scrape provider ran out of credits partway through). The Elections and OSINT sections are the weakest; items are flagged where unverified.
+1. World Politics.
 
-1. WORLD POLITICS.
+US and Iran announced a tentative peace deal (Pakistan's PM announced it); Iran's deputy FM says operations would halt on all fronts, including Lebanon. Israel's Beirut strike hours earlier drew Iranian vows of a response.
 
-Democrats won the US midterms; one aggregator tallies 54 Senate and 237 House seats for them, but some races (for example Alaska Senate) are still uncounted, so treat the figures as provisional.
+US-mediated Russia–Ukraine talks run 10 to 11 November in Abu Dhabi, with European representatives attending.
 
-G7 foreign ministers meet in Paris for two days (moved from Marseille after protests). Europeans will press Washington on a Ukraine ceasefire and on Iran.
+2. US Politics.
 
-Israel's president tasked Gadi Eisenkot with forming a government, passing over Netanyahu.
+Democrats won big in the 3 November midterms; Trump said the US "took a giant step back in history" and has questioned the results' honesty without evidence.
 
-Europe will take part in US-mediated Ukraine talks in Abu Dhabi, France's foreign minister said.
+Post-midterm White House shake-up continues; The Hill dubs it the start of a "Stephen Miller era".
 
-New Zealand's election left no clear winner; coalition talks are on hold until final results.
+Trump told reporters he believes the Iran war is militarily "effectively over".
 
-2. US POLITICS.
+3. Congress.
 
-Trump and the Justice Department are taking a defiant line toward Democrats, who are preparing an investigative push.
+Lame-duck session opens. Rep. Thomas Massie (R-KY) filed eight articles of impeachment against Defense Secretary Hegseth over the Iran war, forcing a House vote within two legislative days; Jeffries is a "hard yes", Trump says he'll stand by Hegseth. Senate conviction is very unlikely.
 
-Trump is expected to double down on immigration enforcement and refuse concessions, calling the result a "giant step back".
+Senate invoked cloture 73 to 25 on the permitting bill (Bipartisan American Affordability and Jobs Act). Government funding expires 11 December.
 
-In a 60 Minutes interview Trump said his deportation policy "might have been too tough" for voters. ABC/AP Full takeaways.
+4. US Foreign Policy.
 
-Trump criticized JD Vance for blaming the midterm losses on the Iran war.
+Washington brokered the tentative Iran deal via Pakistan; Pakistan accuses Israel of threatening the effort.
 
-Trump has resumed disputing results, saying Dan Sullivan won Alaska, though the race is too early to call.
+US is discussing Ukraine security guarantees modeled on NATO Articles 4/5 and reviving the Russia–NATO Council, with snapback sanctions if Moscow violates a deal.
 
-MAGA activists and strategists are asking whether the movement is finished after the losses.
+5. Middle East Politics.
 
-3. CONGRESS.
+Tentative US–Iran deal is fragile: Israel's defense minister says the Iran mission is "not complete" and Netanyahu signals "heavy blows" against Iran's proxies.
 
-Hakeem Jeffries is expected to be the next House speaker and says Democrats will focus on affordability.
+Iraq and Iran are jointly investigating an attack on Saudi Arabia reportedly launched from Iraqi territory near the Iranian border.
 
-Democrats' stated agenda is healthcare, tariffs and oversight, not impeachment.
+6. Middle East Local Politics.
 
-The Justice Department is bracing for congressional scrutiny of its actions in Trump's second term.
+Lebanon: Health Ministry says Israeli attacks since 2 March killed 4,390 and wounded 12,429 (as of 5 November); UNIFIL's mandate ends 31 December, leaving open who secures the south.
 
-The outgoing GOP Congress must pass a funding bill before December. 11 to avoid another shutdown, and also has the farm bill pending.
+Gaza: storm flooded tents sheltering displaced people; a landslide in Deir al-Balah killed a woman and four children. West Bank raids continue (Palestinian reporting).
 
-Abdul El-Sayed, newly elected to the Senate from Michigan, defended calling Trump an "unserious fool".
+7. Middle East Defense News.
 
-A Democratic Senate and House raise the prospect of veto-proof Ukraine aid, which the Kremlin is watching.
+Israeli airstrike on Beirut's Dahiyeh killed three.
 
-4. US FOREIGN POLICY.
+US carrier aircraft recently struck Iranian air-defence launchers on Qeshm Island; Iranian sources claim SAMs were fired at a US F/A-18 over the Strait (unverified).
 
-Rubio will attend both days of the G7 talks in Paris. He defended Trump's Iran approach and said progress was made on post-war security guarantees for Ukraine, with no final arrangements.
+Iran reportedly rebuilding parts of its ballistic missile program; concern over Houthi advances.
 
-Kushner and Witkoff are heading to Abu Dhabi for Ukraine talks.
+8. Dutch Local Headlines.
 
-Kushner floated a NATO-Russia Council-style forum for European security. Europeans and Kyiv say a ceasefire must come first.
+PM Rob Jetten defends skipping the 200,000-strong "Red Line" Gaza protest in Amsterdam, saying it was "not his place".
 
-Trump expects to meet Xi Jinping and Vladimir Putin next week on the sidelines of the APEC summit in China.
+Cabinet approved its AI vision paper.
 
-Analysis on Trump's timing and options on Iran (talks, pressure, or military action).
+Cabinet's 20 billion euros dairy-limiting nitrogen policy (proposed 26 June) back in focus.
 
-5. MIDDLE EAST POLITICS.
+9. European Union News.
 
-Israeli Defense Minister Katz says the "mission against Iran is not complete", that Israel will not leave its security zones in Gaza, Lebanon and Syria, and that Hezbollah would face "extremely severe blows" if it joins an Iran attack.
+EU negotiating a 22nd Russia sanctions package; Kallas says Russia is "pretending" to negotiate and hopes Republican midterm losses shift US policy.
 
-Iran reported three tanker fires.
+Council extended the EUMAM Ukraine training mission mandate by two years.
 
-China is launching a Middle East diplomatic push, with envoy Zhai June due to visit Iran, Oman and Saudi Arabia.
+2028 to 34 budget (MFF) talks ongoing.
 
-Background: the US-Israel war on Iran began February. 28; diplomatic efforts to end it continue.
+10. NATO News.
 
-6. MIDDLE EAST LOCAL POLITICS.
+Rutte expects the war to end in a negotiated compromise; neither side likely to win outright.
 
-Israel: Eisenkot has 28 days (extendable by 14) to build a coalition. In the October. 27 election his bloc won 48 seats and Netanyahu's 53, and 67 MKs recommended Eisenkot against 46 for Netanyahu.
+Russia warned NATO over Kaliningrad as Abu Dhabi talks begin.
 
-Israel: The coalition math is hard. Eisenkot would need Arab-led parties (Ra'am has said it will back him; the Joint List offered outside support), a deal with the Haredim over the draft, or a power-sharing deal with Netanyahu. Netanyahu keeps claiming the election was "stolen". New MKs are sworn in Tuesday.
+11. Elections.
 
-Israel: Netanyahu is naming Ofir Katz as Likud chairman for the 26th Knesset, and Eisenkot is expected to meet Liberman Monday. Mossad has given the Shin Bet findings on suspected foreign election interference.
+Just happened: US midterms (3 November) largely decided; Senate seats in Mississippi (Hyde-Smith 49.1 to 48.8, 97% counted) and Alaska plus 19 House races uncalled. Colorado's Boebert trails Laubacher; recount under way in Latah County, Idaho.
 
-Lebanon: Lebanese outlets report Eisenkot plans to withdraw from southern Lebanon before forming a government.
+Bulgaria: Iliana Iotova won the 1 November presidential runoff (about 58% in early counts) and pledges a reset with Russia.
 
-Iraq: The prime minister visited a Sadrist stronghold, read as outreach to Muqtada al-Sadr's base.
+Upcoming: no major non-US national vote surfaced in today's search; check an election calendar.
 
-Iraqi Kurdistan: KDP-PUK disputes over forming a new government raise the prospect of two separate administrations returning.
+12. Africa In-Depth.
 
-7. MIDDLE EAST DEFENSE NEWS.
+Sudan: RSF has run a drone campaign against fuel depots and power stations in army-held territory since 22 October, while the army says it tracked 180+ drones in two months. The army claims recapture of two North Kordofan areas (Kazgeil, Abu Qaoud) and is advancing in West Kordofan. The RSF has supply lines through South Sudan. The war is shifting toward infrastructure attrition.
 
-Syria is preparing to send about 600 special forces to Saudi Arabia, according to three officials, to deploy along the border and potentially help against the Houthis. Syrian advisers are already training Yemeni forces there. Saudi officials have not commented.
+A Russia–Africa Summit was flagged in Critical Threats' 5 November Africa File.
 
-Context: a Houthi ballistic-missile strike on Yemeni government forces killed at least 53 on October. 19.
+13. Asia/India.
 
-The IDF's occupation and operations in southern Lebanon continue daily; Israel keeps forces in Gaza and southern Syria.
+Japan and Vietnam leaders pledged deeper cooperation amid China's regional influence.
 
-Iran's deputy parliament speaker says the armed forces are ready to defend the country with advanced weapons.
+Pakistan is mediating US–Iran talks.
 
-8. DUTCH LOCAL HEADLINES.
+Indonesia's OJK urges banks to brace for cyberattacks.
 
-The Jetten minority cabinet faces a decisive week and an impasse in parliament. It is meeting social partners again on welfare-system reform.
+14. OSINT Updates.
 
-Trouw asks whether the minority cabinet can already be called a failed experiment, after a late-night stalemate in the Tweede Kamer.
+Open-source flight/cargo data (Movement Research Unit) shows Israeli-linked cargo flights moved BLU-109 bomb casings via JFK this spring. Reviewed by The Intercept; reporting is advocacy-leaning.
 
-A Maurice de Hond poll reportedly shows D66, VVD and CDA falling sharply, with 90% wanting the minority cabinet to end. The outlet is partisan, so treat the headline figure with caution.
+Unconfirmed: Iranian claims of SAM fire at a US Navy jet over the Strait of Hormuz. No independent confirmation found.
 
-About 200,000 people (organizers' figure) joined the fourth Rode Lijn protest on Museumplein, Amsterdam, demanding tougher action on Israel, including an arms embargo. The cabinet says it understands their concerns.
-
-72 municipalities have called on the government's "flying team" for asylum reception, and outside consultants are profiting.
-
-Jetten called cybersecurity a top priority after October's major cyber incident, but it is unclear who is responsible for it.
-
-9. EUROPEAN UNION NEWS.
-
-Council President Costa will present a new compromise on the 2028 to 34 budget for an extraordinary summit on 26 to 27 November, aiming for a deal in December. The Irish proposal failed to win support.
-
-The Commission launched an EU Crypto Sanctions Task Force on November. 6 to detect crypto routes used to evade Russia sanctions, alongside a new sanctions-enforcement office.
-
-Von der Leyen ruled out lifting Russian energy sanctions before the war ends and promised faster trade-retaliation powers.
-
-The EU and IMF are preparing new funding for Ukraine as its budget deficit is projected to widen.
-
-EUobserver reports leaked WhatsApp messages between ex-Commissioner Reynders and a senior Belgian spy about allegations of possible Russia ties. This is an exclusive and not yet widely confirmed.
-
-Germany: Chancellor Merz will nominate Ilse Aigner (CSU) as the first woman federal president.
-
-10. NATO NEWS.
-
-Trump's push for a Russia deal, including Kushner's NATO-Russia Council idea, has alarmed allies.
-
-NATO has begun one of its most demanding anti-submarine exercises in the Baltic, with ships facing live drone attacks. (via Google News; original outlet link unavailable)
-
-Germany's top general, Carsten Breuer, says Russia is probing NATO defenses with hybrid attacks and preparing for a wider war. An explosive drone was defused at a German airport. (via Google News; original outlet link unavailable)
-
-Estonia's foreign minister says Ukraine must join NATO for lasting peace.
-
-Rutte told Dutch talk show Pauw and De Wit how he and Zelensky would celebrate the war's end. (via Google News; original outlet link unavailable)
-
-11. ELECTIONS.
-
-Just happened
-
-US midterms (November. 3): Democrats took both chambers on the aggregator's count (see above). Alaska's Senate race is still uncalled.
-
-Israel (October. 27): No bloc reached 61; Eisenkot has the mandate.
-
-New Zealand (November. 7): Knife-edge result; final results are due later and coalition talks are postponed.
-
-South Africa: The ANC had its worst-ever election result on Sunday, per Politico. I could not confirm which vote this was.
-
-Upcoming
-
-I could not verify a worldwide calendar this run because my search credits ran out. Known near-term milestones are Eisenkot's coalition deadline (28 days from November. 8, extendable by 14) and the EU budget summit on November. 26 to 27.
-
-12. AFRICA IN-DEPTH.
-
-Sudan, Blue Nile: The RSF claims it captured Makja, while the army says it repelled RSF and SPLM-N attacks and holds Bakori and Sali. Neither side's claims are independently verified.
-
-Sudan, Kordofan: The army says it shot down its fourth hostile drone in West Kordofan within a week while advancing on RSF positions.
-
-Sudan, politics: Army-aligned authorities arrested Ahmed Haroun, head of ousted dictator Bashir's National Congress Party.
-
-Sudan-Ethiopia: Khartoum accuses Ethiopia of letting RSF drones launch from its territory. Africa Intelligence reports Burhan is snubbing Abiy's invitations as relations deteriorate. The Blue Nile fighting is on the Ethiopian border, so this is a regional escalation risk.
-
-Darfur: Activists issued a humanitarian appeal for displaced families in North Darfur after RSF attacks.
-
-AU-EU: A joint peace push has Sudan, eastern DRC (M23) and the Sahel dominating talks.
-
-Kenya: A cult leader was sentenced to 200 years in prison.
-
-13. ASIA / INDIA (brief)
-
-Markets rallied Monday: Nikkei +2.27% to 58,738; Taiwan's TAIEX +5.27%.
-
-China's central bank is widening its crypto crackdown, probing Solana's Shanghai advertising and local partners.
-
-Japan is weighing winter energy relief for LP gas and kerosene users.
-
-No India-specific headlines surfaced this run.
-
-14. OSINT UPDATES (unconfirmed / developing)
-
-My OSINT-tracker searches (ACLED, Bellingcat-style, satellite-imagery analysts) returned nothing current today. The items below are credible-but-unverified signals from regular outlets, not tracker products.
-
-UNCONFIRMED: Israel's Channel 12 reported that Netanyahu and the Mossad attempted an operation against Iran on the eve of the October. 27 election, but the US discovered it and stopped it. Single-source and not officially confirmed.
-
-UNCONFIRMED: Nordic Monitor alleges Turkey's Somalia rocket-launch facility, presented as civilian, is tied to long-range missile development. The outlet has a strong anti-Erdoğan editorial line, so look for independent imagery analysis.
-
-DEVELOPING: The Syrian deployment to Saudi Arabia rests on anonymous officials, with no Saudi confirmation. Watch for imagery or footage of Syrian units near the Yemen border.
-
-UNCONFIRMED: The RSF's capture of Makja in Blue Nile is a claim not yet independently verified.
+Little fresh imagery-based OSINT surfaced today; ACLED and Bellingcat-style trackers were not directly retrievable.
 
 That's the end of your daily news briefing. Sources are on your dashboard.
