@@ -1,19 +1,27 @@
-Here is your classics report for Thursday, 12 November.
+Here is your classics report for Friday, 13 November.
 
-Leon Festinger and the Discomfort of Being Wrong.
+The Banality of Evil: Hannah Arendt in Jerusalem.
 
-In the autumn of 1954, the social psychologist Leon Festinger read a small newspaper item with the headline "Prophecy from planet Clarion call to city: flee that flood." A Chicago housewife, called Marian Keech in his account, claimed to receive messages from alien beings. They told her that a great flood would destroy the world on December 21, and that believers would be rescued by flying saucer shortly before midnight. Festinger and his colleagues saw a rare chance. They joined the group undercover to learn what happens to people when a prediction they have staked everything on fails.
+In 1961, the philosopher Hannah Arendt, a German-Jewish refugee who had fled the Nazis and rebuilt her life in New York, travelled to Jerusalem to watch the trial of Adolf Eichmann. Eichmann had organised the logistics of deporting millions of Jews to the death camps. Arendt expected to meet a monster. Her reports for The New Yorker, later collected as Eichmann in Jerusalem (1963), described something far more unsettling.
 
-Their 1956 book, When Prophecy Fails, grew into one of the most influential ideas in modern psychology: cognitive dissonance. Festinger proposed that holding two conflicting beliefs, or a belief that clashes with our own behaviour, produces real psychological discomfort. We are driven to reduce it, and the easiest route is often not to change the belief that is false, but to bend the facts around it.
+The core idea.
 
-The group's members had quit jobs, given away possessions and endured ridicule. Midnight came, and no saucer landed. After hours of tense silence, Keech received a new message: the group's faith had been so strong that God had spared the world. Instead of abandoning the cause, the believers who had waited together became far more eager to spread it, calling reporters and seeking converts. As Festinger and his colleagues put it, a person with a conviction is hard to change, and if you show him evidence, "he will frequently turn away." The more the believers had sacrificed, the harder it was to admit error, so they reinterpreted the failure as a success.
+What Arendt saw in the glass booth was an ordinary, careerist bureaucrat. He spoke in clichés and recycled stock phrases, and he seemed unable to see the situation from anyone else's point of view. He was not driven by burning hatred or demonic ideology. He wanted to do his job well and be promoted. She called this "the banality of evil." She did not mean that the crimes were small. She meant that their source was shallow: a failure to think.
 
-Festinger later tested the idea in lab settings. In a famous 1959 experiment with James Carlsmith, participants did a dull task and were then paid either 1 dollarsor 20 dollarsto tell the next person it was fun. Those paid only 1 dollarslater rated the task as more enjoyable. With no big payment to justify the lie, they quietly adjusted their own opinion instead.
+For Arendt, thinking is not intelligence or cleverness. It is the habit of stopping to hold an inner dialogue with yourself, asking what you are actually doing and whether you could live with it. Eichmann, she argued, had let thinking be replaced by procedure, slogans and obedience. When the state declared the Final Solution to be the law, he treated that as the end of the matter. She later put the point in a line from The Life of the Mind.
 
-The idea matters because it explains behaviour we usually find baffling: why people double down on a bad investment, defend a leader after proof of wrongdoing, or cling to a habit they know is harmful. The deeper the commitment, the more costly it is to admit a mistake, and our minds are surprisingly skilled at protecting us from that cost.
+"The sad truth is that most evil is done by people who never make up their minds to be good or evil."
 
-A practical lesson follows. Notice the small flush of defensiveness when evidence contradicts you, because that feeling is dissonance at work. Treating it as a signal to examine your position, rather than to defend it, is a modest but real step toward thinking more clearly.
+The context.
 
-Suggested reading: Festinger, Riecken and Schachter, When Prophecy Fails (1956); Festinger, A Theory of Cognitive Dissonance (1957).
+Her argument was controversial from the start. Many readers felt she was excusing Eichmann or minimising the Nazi project. Historians have since debated whether she took his courtroom performance too much at face value, and she was perhaps too quick to dismiss his real antisemitism. But her central question has outlasted these disputes: how do ordinary people take part in atrocity without feeling like villains?
+
+Why it still matters.
+
+Arendt's insight is that moral catastrophe does not always require fanatics. It can run on people who follow the process, hit the target, say "that's not my department," and hide behind a job title. You can see echoes of this in any large institution where responsibility is spread so thin that nobody feels it: a company covering up a defect, a system processing people as cases, a crowd repeating a talking point because everyone else is.
+
+Her remedy is modest and personal. It is not heroism, just the discipline of pausing to think, of asking "what am I actually doing here?" before accepting the answer "what I was told."
+
+A good starting point: Arendt's essay "Personal Responsibility Under Dictatorship," which develops these ideas in a short, readable form.
 
 That's the end of your classics report. Sources are on your dashboard.
