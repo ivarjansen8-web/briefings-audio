@@ -1,91 +1,107 @@
-Today's Sahel briefing has not been written yet. Here is the latest one, from Thursday, 12 November.
+Here is your Sahel briefing for Saturday, 14 November.
 
-JNIM-IS Sahel turf war spreads into Niger and Nigeria; JNIM hits Mali convoy with Africa Corps; Niger-Haftar pact.
+Dozens of civilians killed in Niger's Téra ambush as JNIM presses Mali's army and Sahel juntas show unity.
 
-Compiled from sources dated 2 to 11 November 2026. Items marked (unconfirmed) are single-source or early reports. Data-quality note: WebFetch was blocked for most outlets in this run, so every item below rests on search-result snippets only and no article was read in full. Treat this issue as a thin, partial briefing.
+Compiled from sources dated 2 to 13 November 2026 (widened to 72 hours and beyond where noted). Items marked (unconfirmed) are single-source or early reports.
+
+Sourcing note: In this run the search index returned few items from the last 24 hours and the article pages could not be fetched (the session's network blocked them). Items below rest on search-result summaries, not full reads. Treat them as leads to verify. Sections without a dated item in the window say so.
 
 1. Top stories.
 
-Africa Defense Forum (10 November) says the JNIM-versus-Islamic State Sahel Province turf war has spread beyond Burkina Faso and Mali into Niger's Tillaberi and Dosso regions and Nigeria's Kebbi state since April 2026. If accurate, the rivalry is now a cross-border problem for the coastal-facing states. Note that ADF is a US military-funded outlet. Africa Defense Forum, 10 November (unconfirmed, snippet only)
+Gunmen killed at least 37 civilians in an ambush near Téra, western Niger, on 12 November (unconfirmed). AFP local sources gave 37 dead and a former local elected official later said 38. The attackers are unidentified. The area borders Mali and Burkina Faso, where JNIM and Islamic State Sahel both operate. Africaradio, 13 November; KOACI, 13 November (reports "at least 30")
 
-JNIM claimed an IED attack on 2 November on a vehicle carrying Malian army and Russian Africa Corps personnel between Sevare and Konna. The claim is JNIM's own and no casualty figure was confirmed. ModernGhana, 2 November (unconfirmed)
+JNIM claimed an IED attack on a vehicle carrying Malian army and Africa Corps personnel between Sévaré and Konna on 2 November (unconfirmed). This is a JNIM claim, and I found no independent confirmation of casualties. It shows JNIM still reaches central Mali's main military axis.
 
-Niger signed a memorandum of understanding with eastern Libya's commander Khalifa Haftar on 4 November, per the CFR conflict tracker. It points to a Niamey-Benghazi track alongside the AES. CFR Global Conflict Tracker, November (unconfirmed)
+Fighting between rival armed groups is reported along the Burkina-Mali border (unconfirmed). An article dated 13 November says two groups have fought increasingly deadly battles there. It also says the Traoré government is struggling to retake territory. The summary names no casualty figures.
 
 2. Mali.
 
-JNIM claimed the 2 November IED attack near Sevare and Konna in central Mali, targeting army and Africa Corps personnel. It shows the group still reaching the Mopti axis. ModernGhana, 2 November (unconfirmed)
+JNIM says it hit a Malian army and Africa Corps vehicle near Sévaré-Konna on 2 November. The claim is unverified, and casualty numbers are not in what I could read.
 
-A fire destroyed several shops at Bamako's Grand Marche on Wednesday 11 November. It has raised questions about market safety; no cause was given in the snippet.
+JNIM's fuel blockade of Bamako, reimposed on 28 April 2026 according to later analyses, is still described as ongoing. Open-source counts cite more than 300 tankers destroyed since it began. Some analysts note that escorted convoys by the army and Africa Corps still get through, so the "siege" is partial.
 
-Residents of Kita, Yanfolila and Bougouni fear an influx of artisanal gold miners expelled from Guinea. It signals local tension over mining sites.
-
-Background: Wikipedia's "2026 in Mali" records the death of defence minister Sadio Camara in April 2026, after which Assimi Goita took the defence portfolio. This is background, not news from the last 72 hours.
+I found no dated 12 to 13 November reporting from Mali. The items here are the most recent I could verify.
 
 3. Burkina Faso.
 
-ACLED's latest weekly update I could see (24 to 30 October) describes JNIM encroaching on population centres in Burkina Faso and Niger. Nothing newer was found.
+Reports of clashes between rival armed groups on the northern border with Mali (unconfirmed). The source is a single aggregator-style article dated 13 November with no figures, so treat it with caution.
 
-Wider coverage claims a wave of coordinated JNIM attacks across Mali, Burkina Faso and Niger in the first week of November. Details and tolls were not retrievable. ModernGhana, 2 November (unconfirmed)
+Captain Traoré sent a delegation to Niamey on 12 November to offer condolences to Gen. Tiani on the death of Tiani's father. The visit is read as a display of AES solidarity. It comes from a single outlet, so I count it as unconfirmed.
+
+A World Bank 2026 to 2031 partnership framework targets electricity for about 1.9 million people (early October). This is older context, not news from the window.
 
 4. Niger.
 
-Niger signed an MoU with Khalifa Haftar on 4 November, per CFR. Terms were not available. CFR Global Conflict Tracker, November (unconfirmed)
+At least 37 civilians were killed in an ambush near Téra on 12 November, per AFP local sources (unconfirmed). KOACI's headline gives "at least 30", so the toll varies by outlet. The attackers have not been named.
 
-ADF reports IS Sahel-JNIM clashes now reach Tillaberi and Dosso. Africa Defense Forum, 10 November (unconfirmed)
+A coup attempt against Tiani in 2026 is documented, reportedly by junior officers. I could not confirm dates or the aftermath from the snippet. Algeria's president later confirmed Algeria sent fighter jets to Niger during an August coup attempt, per an October newsletter.
 
-ACLED notes ISSP exploiting cross-border networks (week of 24 to 30 October).
+Niger is reviewing uranium cooperation with Russia's Rosatom, and a contested stockpile sits at Somaïr (early October). Context for the economy section.
 
 5. Chad.
 
-A Geopolitical Monitor headline, "Political Reform Hopes Collapse in Chad", refers to dozens of protester deaths; the date is unclear (early November at best). I could not verify the event or the toll. Geopolitical Monitor, Sahel tag (unconfirmed)
+Quiet: nothing significant in the last 72 hours. The latest items I found were a tchadinfos headline (early November) saying Chad's foreign minister was invited to Israel, and an October note about Chadian students leaving for Morocco. A September newsletter said Niger-Chad relations had worsened, with no details.
+
+Sudanese refugee arrivals in eastern Chad continue to feature in UNHCR flash updates. I did not verify current figures.
 
 6. Mauritania.
 
-Quiet: nothing significant in the last 72 hours. (Nothing found; coverage by Cridem and Alwiam could not be reached.)
+Quiet: nothing significant in the last 72 hours. The most recent item is that the EU-Mauritania fisheries protocol expires in mid-November 2026 and, as of early October, no replacement deal had been reached. I found no later update.
+
+Algeria and Mauritania signed a customs cooperation agreement in Nouakchott around 1 October. Older context.
 
 7. Alliance of Sahel States (AES), ECOWAS and regional diplomacy.
 
-Background: the AES launched a joint force (reported around 5,000 troops, command in Niamey) in December 2025, and ECOWAS plans an initial 2,000-troop standby force by end-2026. Both are dated background, not new.
+The AES leaders showed public unity on 12 November, when Traoré sent a delegation to Niamey for Tiani's bereavement (unconfirmed). It is a symbolic item.
 
-No fresh AES or ECOWAS summit news was found for the last 72 hours.
+In September the three juntas opened their own parliament in Niamey, deepening the split with ECOWAS. The AES also launched a unified joint force in December 2025. Background, not a development in the window.
+
+No ECOWAS-AES negotiation news turned up for 12 to 13 November.
 
 8. Jihadist groups (JNIM, Islamic State Sahel, ISWAP) and spillover to coastal West Africa and Nigeria.
 
-ADF says JNIM-ISSP fighting expanded into Nigeria's Kebbi state since April 2026. It matters for northern Nigeria and Benin-Togo border risk. Africa Defense Forum, 10 November (unconfirmed)
+JNIM attacks have killed about 2,100 people this year, an annual record, per an AFP report citing ACLED data (reported 7 November). The page I saw mixes in unrelated content, so verify the date and figure against the original AFP and ACLED.
 
-An AFP analysis of ACLED data, cited by Macau Business, puts 2026 deaths from JNIM attacks at 2,100 as of 7 November, an annual record. The year attribution is unverified. Macau Business (unconfirmed)
+JNIM and Islamic State Sahel have been fighting each other as well as the juntas. The Jamestown analysis describes a "fratricidal war" alongside JNIM's expanding offensives. The Burkina-Mali border clashes reported on 13 November may fit this pattern, but nothing in my sources says so.
 
-CFR's tracker lists a UNHCR warning (10 November) of mass displacement from Nigeria. Details not retrieved. CFR Global Conflict Tracker (unconfirmed)
+A UN Secretary-General report covering November 2025 to June 2026 says JNIM launched attacks in northern Benin, and Togo's Savanes region has seen repeated displacement from armed attacks and IEDs. These are older data and not new events.
+
+I found no dated ISWAP or Nigeria incident for the last 72 hours.
 
 9. Russia's Africa Corps and other outside powers (France, US, Turkey, UAE, China)
 
-JNIM says its 2 November IED hit a vehicle carrying Africa Corps personnel. The claim is from the group itself. ModernGhana, 2 November (unconfirmed)
+Africa Corps personnel were reportedly in the vehicle targeted on 2 November near Sévaré (JNIM claim, unconfirmed). Africa Corps and the Malian army are also credited with escorting fuel convoys.
 
-Nothing found on France, US, Turkey, UAE or China in the last 72 hours.
+Niger is reviewing its uranium cooperation with Rosatom (early October), and Algeria's jets reportedly supported Niamey during the August coup attempt. Both show competing outside influence around Niamey.
+
+Quiet: I found no dated reporting on France, the US, Turkey, the UAE or China in the last 72 hours.
 
 10. Humanitarian situation and migration routes.
 
-UNHCR projects the Sahel Plus region (including Mauritania and coastal states) will host 5.6 million forcibly displaced and stateless people by end-2026. This is a projection, not a new event.
+OCHA's 2026 Sahel overview, published 3 June, estimates 24.3 million people need aid, and funding is at a ten-year low. At end-2025 the region had 5.8 million forcibly displaced people.
 
-UNHCR warned of mass displacement in Nigeria on 10 November, per CFR. CFR Global Conflict Tracker (unconfirmed)
+More than 66,000 refugees from Nigeria have reached Niger and Benin, with a UNHCR appeal covering November 2026 to January 2027 (unconfirmed; headline and summary only).
+
+The Téra ambush adds to civilian risk on the Niger-Mali-Burkina tri-border market routes. My inference, not a sourced claim.
 
 11. Economy, mining and energy.
 
-Malian towns fear an influx of Guinean artisanal gold miners. It is a local indicator of mining tension.
+Niger is reported to be handing roughly 95,000 tonnes of uranium concentrate back to Orano, and Mali is moving to extend Barrick's Loulo-Gounkoto licence by ten years. The article is undated in my results, and sources conflict on Barrick's tax figures (430 million dollars settled versus 500 million dollars disputed). Check the original before relying on it.
 
-Background: JNIM has run a months-long economic blockade against Mali, and fuel disruptions marked 2026.
+The Bamako fuel blockade keeps pressure on Mali's economy, with more than 300 tankers destroyed according to open-source counts.
+
+The EU-Mauritania fisheries protocol expires in mid-November.
 
 What to watch.
 
-Next ACLED weekly Sahel update (expected mid-November): check for confirmation of the early-November wave of attacks.
+Who claims the Téra ambush (from 14 November): a JNIM or Islamic State Sahel claim, or an official Niger statement, would clarify the death toll and the perpetrator.
 
-Confirmation of the Niger-Haftar MoU: look for Niger government or Libyan statements in the coming days.
+Mid-November (about 15 November): whether the EU-Mauritania fisheries protocol lapses or is renewed.
 
-Chad: verify the protester-death reports and dates this week.
+Coming days: whether JNIM claims further attacks on the Sévaré-Konna axis or on fuel convoys heading for Bamako.
 
-Kebbi and Tillaberi/Dosso: watch for further JNIM-ISSP clashes.
+Coming days: confirmation of the reported Burkina-Mali border fighting between rival groups, ideally from ACLED or Critical Threats.
 
-Mali gold-mining tensions in Kita, Yanfolila and Bougouni: watch for local government action.
+Coming days: Niger's handover of uranium concentrate to Orano and the Barrick licence extension, to see if the dates and terms are confirmed.
 
 That's the end of your Sahel briefing. Sources are on your dashboard.
