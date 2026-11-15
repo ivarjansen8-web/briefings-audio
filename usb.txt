@@ -1,149 +1,155 @@
-Here is your US briefing for Saturday, 14 November.
+Here is your US briefing for Sunday, 15 November.
 
-Democrats' midterm sweep, Iran war flares as Israel readies strike, Supreme Court takes asylum case.
+Democrats take Congress as Miller becomes chief of staff; Iran standoff frozen.
 
-Compiled from sources dated 9 to 14 November 2026. Items marked (unconfirmed) are single-source or early reports.
+Compiled from sources dated 9 to 15 November 2026. Items marked (unconfirmed) are single-source or early reports.
 
 1. Top stories.
 
-Democrats won both chambers in the midterms, with House projections ranging from about 250 to 268 seats and more than 40 Republican seats flipped. Divided government starts in January, giving Democrats subpoena power over an administration whose approval is in the low 30s.
+Democrats won both chambers on 3 November, flipping the Senate by roughly seven seats (exact count still reported as 54 to 44 or 55 to 44). Schumer vowed a "legislative razor wire" against Trump, and the new Congress sits on 3 January 2027, which frames every lame-duck fight.
 
-Trump's approval fell to 32% in a Reuters/Ipsos poll taken 6 to 9 November, with 65% disapproving. That is one point above his record low of 31% in mid-October, and it shows no post-election recovery.
+Trump named Stephen Miller chief of staff, replacing Susie Wiles. Jeffries called Miller a "dangerous xenophobe and reckless extremist", and Democrats say it kills hopes of bipartisan immigration talks.
 
-The Iran war is escalating again: Israel's security cabinet reportedly ordered stepped-up preparations for an attack, and Iran threatened every base involved "from West Asia to Europe". Trump says restarting the war is "highly unlikely" but has also warned he could strike.
+Trump has begun questioning the legitimacy of the midterms after saying on election night he would accept them. He pointed to voting machines without citing a specific discrepancy, and fact-checkers say there is no evidence of vote switching.
 
-The Supreme Court agreed on 13 November to hear the administration's suspension of border asylum. A lower-court ruling striking the policy stays on hold meanwhile.
+The US-Iran standoff is frozen: Rubio says "no need" for major combat operations because economic pressure is working, while Tehran keeps Hormuz closed. The war began on 28 February and has killed 23 US service members, per Pentagon figures cited by CBS.
 
-Treasury Secretary Bessent moved his family to a military base after reported Iranian assassination plots. A DNI memo of 23 October said such plots had reached an "advanced stage".
+The Supreme Court agreed to decide whether Trump can suspend asylum at the southern border. It is a major immigration test with arguments expected in spring 2027.
 
 2. White House and the administration.
 
-Stephen Miller became chief of staff on 9 November, replacing Susie Wiles. Trump announced it on 6 November and denied it was about the midterms, but CNN and Axios report he was furious over the results.
+Miller's elevation reportedly moves control of Cabinet communications away from Wiles' operation. A Fox News report describes an internal memo giving agencies more autonomy, which shows how Miller intends to run the building.
 
-Trump questioned the midterm results on 9 November, blaming voting machines and early-vote "dumps" without naming any specific discrepancy. This follows his election-night pledge to accept the result. Leavitt framed his posts as support for the SAVE Act.
+Trump held a surprise briefing on 9 November with UFC chief Dana White, whom he had floated online as press secretary. Trump said he was "sort of kidding" and White said he has no political aspirations, but no press secretary change has been reported.
 
-A CNBC headline says Trump offered UFC chief Dana White the press secretary job (unconfirmed). It is a single headline I could not corroborate, and Karoline Leavitt still appears as press secretary elsewhere.
+Trump reportedly told the DOJ to investigate Democrats over "threatening letters" to GOP members, and the White House warned Democrats that probing the administration may be a crime. This signals a combative stance toward incoming House oversight (unconfirmed beyond a news digest).
 
-Trump reportedly told Netanyahu he wants him to take steps to implement the Gaza peace plan. The report comes from Axios via Just Security (unconfirmed).
+Trump said restarting the Iran war is "highly unlikely" but warned he could strike. The hedge keeps leverage while avoiding a new commitment.
+
+An armed man was arrested near the White House for allegedly threatening Trump (unconfirmed). Details were thin in the one summary I found.
 
 3. Congress (House, Senate, key votes, investigations)
 
-The House voted 211 to 204 on 10 November to refer Rep. Massie's Hegseth impeachment articles to the Judiciary Committee. The referral effectively kills them in this Congress. Massie was the only Republican to vote with Democrats, and he said he will not bring another resolution before leaving in January.
+The House voted 211 to 204 on 10 November to send Massie's Hegseth impeachment resolution to committee, killing it for this session. Massie was the only Republican to back impeachment, and Jeffries said "It's just the beginning", which points to a Democratic push once they control the House.
 
-Senate Republicans kept John Thune as leader after the election losses. Thune said they would work with Democrats but rejected "leftist fantasies".
+The government runs out of money on 11 December, with a short continuing resolution into February or March the likely fix. Senate Democrats warned that a Pentagon-funding reconciliation push would raise shutdown risk; it would be the fourth shutdown of Trump's term.
 
-Sen. Chris Van Hollen is challenging Chuck Schumer for Democratic leader. Schumer says he has the votes, while Warnock and Warner decline to back him publicly.
+Speaker Johnson will not seek the Speaker post again, and Republicans picked new leaders on 10 November. Whoever leads will negotiate funding with Democrats during the lame duck.
 
-Funding runs out on 11 December, and a stopgap looks likely. Democrats are unlikely to negotiate full-year bills before they take control, and the NDAA and the debt limit are also on the year-end list.
+Twelve Senate Democrats led by Van Hollen want Israel provisions struck from the FY2027 NDAA. The sections create a US-Israel defense technology initiative and about 750 dollarsmillion for joint projects, and the bill needs 60 Senate votes, so Democrats have leverage.
 
-The House held only a pro forma session on 13 November and returns for votes Tuesday. The Senate meets Monday at 3 p.m. for a cloture vote.
+Republicans are using the lame duck to push judges and weigh a debt-limit increase. Thune has discouraged a partisan reconciliation package.
 
 4. Courts and the Supreme Court.
 
-The justices will hear the challenge to the asylum suspension next term. The question is whether the president can bar migrants from seeking asylum at the border under an "invasion" proclamation.
+The Supreme Court on 13 November took up the asylum-suspension case (Mullin v. RAICES), reviewing a D.C. Circuit ruling that struck the policy down. Conservative outlets such as the Daily Caller frame it as a chance to vindicate the border closure.
 
-On 9 November the Court let Big Bend border wall construction resume, with Justice Jackson the only noted dissent. The 341-mile section includes the area around Big Bend National Park.
+On 9 November the Court let Trump resume border-wall construction in Big Bend, Texas; Justice Jackson noted she would deny. It also denied review in over 200 cases that day.
 
-The Court added a securities-fraud standard case involving Robinhood to its 2026 to 27 docket.
+The Court declined the administration's request to intervene in a California ballot dispute. It is a rare loss on election-related emergency applications.
 
-Lawfare notes the legal force of the bicameral Iran war-powers concurrent resolution is doubtful after Chadha, and the administration argues hostilities "terminated" in May. That analysis is older background, not a new development.
+A divided Ninth Circuit (6 to 5) on 3 November lifted limits on DOJ demands to election officials over disputed ballots. A lower court had found the demands intimidating, so this matters for post-election disputes.
+
+Importers asked the Court of International Trade on 10 November to order tariff refunds for all roughly 330,000 IEEPA payers. The administration argues only those who sued are owed refunds, in a pool of about 166 dollarsbillion.
 
 5. Parties, elections and polls.
 
-Post-midterm polling shows two-thirds of Americans disapprove of Trump, and the Poliwave average is 37.9% approve to 59.9% disapprove.
+Reuters/Ipsos (6 to 9 November) has Trump approval at 32% and disapproval at 65%, 50% strongly. It is one point above his series low, and the poll averages sit near 38% approve.
 
-Reuters/Ipsos found 71% support congressional legislation to end the Iran war. The figure is cited by Middle East Monitor, a Gaza-sympathetic outlet, so check it against the original poll.
+Democrats flipped Senate seats in Texas (Talarico over Paxton), Maine, Ohio, Iowa, Kansas, North Carolina and South Carolina. The Texas and South Carolina results were the biggest upsets.
 
-Early 2028 polling puts Vance and Rubio on top for Republicans, with Ossoff and Buttigieg named by Democrats.
+Democrats also flipped five governorships (Georgia, Iowa, Nevada, Ohio, Texas). That shifts control of Guard deployments and state election administration for 2028.
 
-Alaska and Mississippi Senate races were undecided as of 8 November, and about 75 House races were still uncalled in early counts. Final seat totals may shift.
+Trump's election-integrity posts are drawing mockery and alarm as states certify. Election officials report routine voting, and Democrats call the claims groundless.
+
+House Republicans are in a leadership reshuffle after Johnson's decision. The contest decides who leads the minority from January.
 
 6. Foreign policy (with a Middle East focus)
 
-Israel's security cabinet reportedly ordered the military to prepare for an attack on Iran, and Tehran says it would treat every base involved as a target. Al Jazeera cites Reuters and AP.
+Rubio said on 10 November, after a G7 meeting in Paris, that "there is no need for major combat operations" because the economic campaign against Iran is "devastating." He called Iran's conditions "absurd" but left open that this "could change", and said force remains possible if Iran crosses unspecified red lines.
 
-Trump says he has "already won" the Iran war and wants "total victory", and he expects to discuss ending it at APEC. Reuters reports Iran is not negotiating directly with the US, with Pakistan and Qatar mediating.
+Iran's security chief called reports of Qatar-mediated talks "a pure lie" and says Hormuz stays closed until seven conditions are met. Iran's demands include lifting sanctions, ending the blockade and a ceasefire including Lebanon and Gaza.
 
-A coalition of more than 50 countries led by the UK, Qatar and Jordan demanded immediate aid entry into Gaza.
+Netanyahu is reportedly pressing Trump to resume strikes, and Defense Minister Katz says the Iran mission is not complete. Israel also says it will keep security zones in Gaza, Lebanon and Syria.
 
-Netanyahu's office says Israel will move gradually off US military aid, which contradicts Trump's account.
+Israeli strikes killed at least nine Palestinians in Gaza, including six at Nasser hospital, despite the nominal ceasefire. The toll complicates Washington's regional diplomacy.
 
-Witkoff and Kushner met Putin in Moscow on 12 November with no breakthrough. Putin rejected European peacekeepers and said war would "resume immediately" if they deploy. Kushner is pushing a large prisoner exchange, and Putin and Trump are expected to talk at APEC.
-
-A Trump-Xi meeting is expected at APEC in Shenzhen on 18 to 19 November, after both sides extended their trade truce.
+Zelensky says US negotiators floated Ukraine leaving Donbas in exchange for NATO membership, which Kyiv rejects. Russia reportedly refused an energy-target ceasefire at the Abu Dhabi round.
 
 7. Defence and the Pentagon.
 
-Hegseth survived the impeachment push but called it a "spectacle" and a political stunt. Republicans were frustrated by the Iran war but did not see his conduct as impeachable.
+Hegseth gave his first Pentagon press briefing since May, just before the impeachment vote, casting Massie as a rogue. Trump called the vote an "exoneration."
 
-Hegseth wants to raise the top special operations civilian to a service-secretary-equivalent rank. A 2 November memo became public on 12 November, and some of the changes, including moving 100 staff and 45 dollarsmillion, need no congressional approval.
+Hegseth awarded a Joint Service Commendation Medal to an Arlington sentinel who shouted at his group after loud laughter. The episode became a "historically strange week" story.
 
-Iran reportedly attacked a US-linked early-warning radar in Bahrain, according to an IRGC claim (unconfirmed). Earlier attacks on Gulf bases and Hormuz shipping continue.
+Watchdogs allege conflict of interest in "Project Meridian", a future-of-warfare study led by Gingrich, Musk and Palmer Luckey. The source is the Daily Beast, a left-leaning outlet, and a lawsuit is cited (unconfirmed).
 
-Poland says the White House will decide on a permanent US troop presence at the start of December.
+CENTCOM has reportedly finished preparations to return to major combat without an order to do so. That keeps the strike option credible.
 
-Hegseth awarded a medal to the Arlington sentinel who had chastised his party for noise.
+Hegseth plans to expand the National Guard presence in Washington as local officials seek to remove it. About 628 troops come from states with incoming Democratic governors.
 
 8. Intelligence and OSINT.
 
-The DNI warned in a 23 October memo to Rubio that Iran had "substantially increased efforts" to target US personnel, with lethal plots at advanced stages. Officials also say Iran has limited ability to carry out large attacks in the US, and Tehran denies the plots.
+Quiet: no major intelligence-agency leadership change or hearing found in the last 72 hours. The latest coverage of Gabbard, Ratcliffe and Patel is from the spring worldwide-threats hearings, where Gabbard called Iran's regime "intact but largely degraded."
 
-Jay Clayton leads the intelligence community, sworn in on 3 August after a 51 to 47 vote, following Tulsi Gabbard's resignation.
+OSINT (open-source, unverified): UANI's 13 November update, using Copernicus imagery, shows vessels in Hormuz's southern corridor and the aftermath of a strike on the tanker DOMINICA PROSPERITY. UANI is an advocacy group.
 
-The Intercept reports Trump tapped a campaign lawyer and pardon adviser for a top ODNI role (unconfirmed). I could only see the headline, not the name or position.
+OSINT: Windward counted nine transits of Hormuz on 13 November, all without AIS, and the IMO counts 131 incidents and 25 seafarer deaths since the war began. Windward is a commercial vendor.
 
-Open-source: CTP-ISW's 12 November update says it has seen no indicators that Iran has re-mined the Strait of Hormuz. It also covers Houthi-Saudi fighting and says it cannot verify a Houthi drone-strike claim. Analyst assessments, not verified.
+OSINT: Bellingcat (5 November) showed US bases targeted by Iran are visible in unblurred Bing imagery even where Google blurs them. It is a reminder of commercial-map exposure.
 
-Open-source (unverified): SouthFront claims two supertankers exploded in Hormuz, citing the IRGC. SouthFront is a pro-Russian outlet and the claim is unconfirmed.
+OSINT: ISW's 14 November assessment says Russian forces made no confirmed advances around Kostyantynivka, while Ukraine advanced south of Novopavlivka.
 
 9. Economy, trade and tariffs.
 
-Futures put about 90% odds on a Fed rate hike at the 8 to 9 December meeting, and Dallas Fed's Logan backs two more quarter-point hikes. Inflation is spreading into the broader economy.
+The Fed raised rates in September for the first time in three years and held at 3.75%-4.00% in October. Some officials floated faster hikes.
 
-A New York Fed study says tariffs added 2.9 percentage points to inflation in some consumer goods by February, easing to about 2% by August. The full effect may not arrive until 2027.
+Inflation is running hot, with reported PCE readings of 3.3 to 3.6% (sources conflict). A NY Fed study says tariffs' contribution to inflation has fallen to near zero, with energy and AI demand now pushing prices.
 
-Right-leaning outlets argue the Fed's own model shows tariffs can boost growth, while critics flag flaws in the NY Fed study.
+September payrolls rose by only 29,000, with unemployment at 4.2%. Slow hiring plus rising prices limits the Fed's room.
 
-The US-China truce was extended, with China keeping a 10% levy and suspending 24%. Section 122 replacement tariffs followed the Court's February ruling against IEEPA tariffs.
+Roughly 166 dollarsbillion in IEEPA tariff refunds is contested. The Supreme Court struck down those tariffs in February, and Section 301 China tariffs remain.
+
+Vanguard now expects one Fed hike in early 2027 and core inflation of 3.2% at year-end.
 
 10. Immigration and homeland security.
 
-ICE reported a record 483,200 deportations and over 491,000 arrests in fiscal 2026. That is below Trump's one-million goal, and the Migration Policy Institute puts the broader total near 660,000.
+DHS says ICE made over 491,000 arrests and about 483,000 removals in fiscal 2026, both records. TRAC disputes this and says removals fell after Trump took office, because of counting differences.
 
-About 59% of voters in NBC exit polling said enforcement went too far, and only about 20% of removals involved a criminal conviction. Trump has conceded the crackdown may have been "too tough", and Democrats are preparing investigations.
+Reuters reports ICE detaining migrants at courthouses in New York, Phoenix, Los Angeles and Seattle, sometimes after judges dismissed their cases. Dismissal can open the door to expedited removal.
 
-Miller, the architect of the crackdown, now runs the White House. That points to continuity despite the electoral rebuke.
+The Supreme Court's asylum case puts border policy on the 2027 docket.
 
-NBC reports an armed man was arrested near the White House for allegedly threatening Trump (unconfirmed).
+With Miller as chief of staff, Democrats say immigration deals are off. Rep. Robert Garcia called working with him "not realistic."
 
 11. States and governors.
 
-NYC Mayor Mamdani is expected to unveil a plan to disband the NYPD's Strategic Response Group as early as this week (Politico, via Just Security).
+D.C. Councilmember Brooke Pinto is urging governors-elect in Georgia, Iowa, Nevada, Ohio and Texas to withdraw 628 Guard troops from Washington. Withdrawal could occur by January.
 
-Quiet: no other significant state or governor developments surfaced in the last 72 hours. Searches returned mostly 2025 material.
+Election officials in states are certifying results while DOJ has issued more than 100 subpoenas to election officials nationwide, per one report. A federal judge earlier found DOJ letters to Democratic-led states intimidating.
+
+Quiet on other state-level developments in the sources I could reach.
 
 12. Media and public opinion.
 
-Coverage splits along party lines over tariffs, Iran and the election. Breitbart and Hot Air stress tariff benefits, while CNN and Axios stress Trump's anger at the results.
+Coverage of Trump's election-legitimacy claims splits along familiar lines. The Hill, NBC and Newsweek stress the lack of evidence, while PJ Media and the Washington Examiner emphasise Democratic overreaction to Miller.
 
-Opinion has hardened against the war and the crackdown: 71% back ending the Iran war and 59% say immigration enforcement went too far.
+Reuters/Ipsos finds inflation and cost of living drive the souring of opinion.
 
-Conservative commentary is turning on Senate leadership, with PJ Media floating "giving Thune to the Democrats".
+The Dana White press-secretary saga dominated entertainment-political media, with TMZ and Mediaite covering it.
 
 What to watch.
 
-Mon 16 November: Senate cloture vote at 3 p.m.; Tuesday the House returns for votes.
+16 November: federal appeal arguments in Trump's hush-money conviction case.
 
-18 to 19 November: APEC in Shenzhen, with expected Trump-Xi talks and a possible Putin contact on Ukraine.
+Week of 16 November: Senate-House NDAA reconciliation and the Van Hollen push on Israel provisions.
 
-Any day: an Israeli strike on Iran, or a US strike. Watch Hormuz shipping and Gulf base attacks.
+Coming days: whether Trump names a press secretary or announces further staff changes under Miller.
 
-Coming weeks: Democratic caucus decision on Schumer versus Van Hollen.
-
-Early December: White House decision on US troops in Poland.
-
-8 to 9 December: Fed meeting, with a rate hike priced at about 90%.
+Coming days: Iran, whether Qatar-mediated contacts resume or the US returns to strikes; watch Hormuz tanker incidents.
 
 11 December: government funding deadline.
+
+3 January 2027: the new Democratic Congress is sworn in.
 
 That's the end of your US briefing. Sources are on your dashboard.
