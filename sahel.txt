@@ -1,91 +1,101 @@
-Here is your Sahel briefing for Monday, 16 November.
+Here is your Sahel briefing for Tuesday, 17 November.
 
-Sahel: JNIM IED near Konna, HRW on Burkina civilian killings, Chad weighs MNJTF exit.
+Niger accuses Chad of French-backed drone strike; Africa Corps tied to Mali drone war; Chad purges commander.
 
-Compiled from sources dated 2 to 16 November 2026 (widened well beyond 24 hours because few current reports were retrievable). Items marked (unconfirmed) are single-source or early reports.
-
-Coverage note: Search returned little dated reporting for the last 24 to 72 hours. Many outlets (RFI, Africanews, HRW, Buttondown) could not be fetched from this session, so several items below rest on search snippets only. Sections with nothing verifiable say so rather than filling space.
+Compiled from sources dated 5 to 16 November 2026 (older context flagged). Items marked (unconfirmed) are single-source or early reports. Coverage note: this run's search tool surfaced little fresh reporting, and page fetches failed on several hosts (impact.sn, timbuktu-institute.org, adf-magazine.com), so most items rest on search-result summaries, not full articles.
 
 1. Top stories.
 
-JNIM claimed an IED attack on 2 November on a vehicle carrying Malian army and Russian Africa Corps personnel between Sévaré and Konna (unconfirmed). It fits the group's pattern of targeting the Mopti axis and the junta's Russian partners.
+Niger accuses Chad of hosting a deadly drone strike in the Agadez region, with alleged French support (unconfirmed). Niamey says the strike hit the Emi Lulu area near the Algerian and Libyan borders, summoned Chad's ambassador and plans to take the matter to the UN Security Council and the AU Peace and Security Council; N'Djamena denies it ordered, conducted or supported any air operation. A Niger-Chad rupture would add a new fault line between the Sahel juntas and a Western-aligned neighbour.
 
-Human Rights Watch said on 4 November that JNIM (GSIM) killed at least 27 civilians in two September attacks in Yatenga province, Burkina Faso. HRW also cites army and VDP militia abuses against Fulani civilians, so civilians are squeezed from both sides.
+Rights groups say Russia's Africa Corps runs Mali's drone war. An Africa Defense Forum report of 10 November says footage and wreckage in northern Mali show Africa Corps directing the junta's drone strikes, and The Sentry attributes some strikes to Russian commanders. It matters because it ties Moscow directly to civilian-harm allegations.
 
-Chad's president began a security tour of several provinces on 7 November after a recent attack on the army in Lac province, per Tchadinfos. The article says he launched Operation Haskanite and considered withdrawing Chad from the Multinational Joint Task Force, which would weaken the Lake Chad front.
+Chad's president suspended a regional military commander and ordered civilians disarmed. Mahamat Idriss Deby Itno suspended Gen. Hamoda Mahamat Bechir, head of defence zone no. 8, at the end of a six-province security tour. It signals unease over armed civilians and command discipline in the east and centre.
 
 2. Mali.
 
-JNIM claimed the 2 November IED attack near Konna (unconfirmed, claim by the group itself). No casualty figure was found.
+Russian forces and the Malian army hold Kidal after the Tuareg-led FLA retreated in early October. Wikipedia's running account of the 2026 offensives says Kidal had been under FLA control until then; the junta and Africa Corps call the April attacks a thwarted coup attempt. This is a secondary source, so treat details with care.
 
-JNIM's fuel blockade, first announced in September 2025 and reimposed in April 2026 according to one analysis, remains the central strain on Bamako (unconfirmed for current status). I could not find a dated mid-November report, so current fuel conditions are unknown.
+Human Rights Watch says the army and Africa Corps committed new abuses. HRW (22 October) reports a 16 September drone strike on Guelediie village, Mopti region, that killed eight civilians and wounded at least six, plus hundreds of civilians detained at military bases; neither defence ministry replied.
 
-Quiet: no other verifiable Mali developments in the last 72 hours.
+More than 100 Malian soldiers were reportedly killed in September attacks, according to unnamed sources cited by Reuters. The figure is not independently verified and predates this window.
+
+JNIM's fuel blockade of Bamako was reimposed on 28 April and, per a July report, had not eased. I found no reporting on its status in November, so current conditions are unknown.
 
 3. Burkina Faso.
 
-HRW reports GSIM killed at least 27 civilians in two attacks in Yatenga in September 2026. The report adds that 24 civilians died in a 1 September attack on the Soubo gold-mining site and cites ACLED counting 125 JNIM attacks in Burkina Faso from January to August 2026 (figures attributed to HRW/ACLED).
+Burkina has seen no large-scale jihadist attack since late June, but AFP says the calm is deceptive. Analysts and data show attacks are less deadly but just as frequent, so the lower toll may reflect tactics and information control as much as improvement.
 
-A Sidwaya listing dated 3 November mentions the army "eliminating" a terrorist leader named Saïdou Diallo (unconfirmed; snippet only; Sidwaya is state media). Treat as an official claim without independent verification.
+Junta politics: no news this week. Background: the junta broke diplomatic ties with France effective 26 June and extended Traore's rule to 2029; IPS (August) describes the end of party politics.
 
 4. Niger.
 
-Quiet: nothing significant verified in the last 72 hours.
+Niger says Chad and France enabled a drone strike near Emi Lulu (unconfirmed). See Top stories; the claim comes from Niger's government, which has a record of blaming neighbours and France, and Chad denies it.
 
-Background: Niger's dispute with Orano over the nationalised Somaïr uranium continued into 2026. On 5 May Niger denounced Orano's legal proceedings as near "legal harassment," per AFP via Boursorama; it is a useful baseline for any new ruling.
+Algeria has reportedly decided to deploy military units to Niger (unconfirmed). The report comes from a single search summary; if true, it marks a security tie between two states that were at odds earlier in the decade.
+
+A report of at least 37 civilians killed by armed men in western Niger on 16 November (unconfirmed). I could not verify it: my follow-up search only found a similar toll from an August 2021 attack, so this may be a misdated item. Do not cite until confirmed.
 
 5. Chad.
 
-Chad's president started a tour of several provinces on 7 November, per a presidency statement relayed by Tchadinfos. It follows an attack on the army in Lac province.
+Deby suspended Gen. Hamoda Mahamat Bechir and ordered civilian disarmament after touring six provinces; he also urged unity in Batha.
 
-The third Lake Chad Basin development forum opened in N'Djamena on 5 November, against the backdrop of that attack. The same coverage says Operation Haskanite was launched and a withdrawal from the MNJTF was considered (unconfirmed, single source; I could not confirm which of two Tchadinfos links carries which detail).
+A prison break at Mongo, Guera province, on Sunday 15 November left two dead and three seriously hurt, with 30 inmates still at large per a provisional toll. It adds to pressure on Chad's internal security.
+
+N'Djamena rejects Niger's drone-strike accusation and says Niger harbours Chadian armed groups; spokesman Gassim Cherif Mahamat said the government never ordered, conducted or supported such an operation.
 
 6. Mauritania.
 
-UNHCR counted 190,815 registered refugees and asylum seekers in Mauritania on 30 September 2026, mostly Malians in Hodh Chargui (as reported by the Rio Times, 28 October). Nouakchott bears the spillover of the Malian war.
-
-Mauritania is lobbying at the Francophonie summit (14 to 16 November, Phnom Penh) for its candidate Coumba Bâ (unconfirmed, single source).
+Quiet: nothing significant in the last 72 hours. (My searches returned no relevant Mauritanian reporting; local outlets such as Alwiam and Cridem were not reached.)
 
 7. Alliance of Sahel States (AES), ECOWAS and regional diplomacy.
 
-Quiet: no verifiable AES or ECOWAS development dated in the last 72 hours.
+ECOWAS and the AES held their first ministerial meeting of a cooperation dialogue in Dakar on 17 October and agreed to negotiate a deal protecting trade and security ties. ECOWAS chief negotiator Lansana Kouyate (appointed in March) told RFI the aim is not to ask the AES to return. This is a month old, but it is the latest formal step I found.
 
-Background: the AES joint force and a confederal parliament are being built. Reports say the parliament met in Niamey in late August 2026 (state-media sourced, unconfirmed).
+The AES launched a unified military force in December 2025. Its performance against JNIM, and whether Niger's quarrel with Chad strains the bloc's unity, are open questions.
 
-8. Jihadist groups (JNIM, Islamic State Sahel, ISWAP) and spillover.
+8. Jihadist groups (JNIM, Islamic State Sahel, ISWAP) and spillover to coastal West Africa and Nigeria.
 
-JNIM remains the main driver of violence across Mali and Burkina Faso, per the November items above. ACLED-based reporting also finds JNIM and IS Sahel expanding in the Benin-Niger-Nigeria borderlands.
+HumAngle analyses JNIM's cross-border attacks as a threat to the Sahel's security architecture. The piece is undated in my results; it frames JNIM expansion toward coastal states as the main strategic risk.
 
-Background: 15 soldiers were killed in northern Benin in March 2026, and jihadists killed an army general in Borno in April. I found no November events for the coastal states or Nigeria.
+Mali's April offensive showed JNIM and the FLA can coordinate nationwide. Reuters, via The Star, reported a joint claim on 25 to 26 April, including the attack on Bamako's airport and the killing of the defence minister.
 
-9. Russia's Africa Corps and other outside powers.
+ISWAP and Islamic State Sahel: no relevant reports found in the last 72 hours.
 
-The 2 November claimed IED attack involved Africa Corps personnel (unconfirmed).
+9. Russia's Africa Corps and other outside powers (France, US, Turkey, UAE, China)
 
-Quiet: nothing else verified for France, the US, Turkey, the UAE or China in the last 72 hours.
+Africa Corps leads the junta's drone campaign, per ADF (10 November).
+
+The CFR tracker (updated 5 November) says the April offensive forced Russian forces to withdraw temporarily from northern positions. Moscow's staying power in Mali remains the key variable.
+
+France is accused by Niger of backing the Chad-based strike (unconfirmed). Paris has not been heard in the material I found.
+
+US, Turkey, UAE, China: no relevant reports found.
 
 10. Humanitarian situation and migration routes.
 
-UNHCR figures show 190,815 refugees and asylum seekers in Mauritania at end-September.
+Nearly 4 million people are displaced across Burkina Faso, Mali and Niger, including over 818,000 refugees, UNHCR said on 9 October.
 
-Mauritanian pushbacks tied to an EU deal sharply cut arrivals in Europe, per Al Jazeera (April). Migrants are hiding as deportations to Mali and Senegal continue.
+OCHA estimates 24.3 million people in the Sahel need aid in 2026; only 21% of funds were mobilised by mid-May. UNHCR's Sahel response was 27% funded as of September against 329.6 dollarsmillion needed.
+
+Migration routes: no relevant reports found.
 
 11. Economy, mining and energy.
 
-Burkina's Soubo gold site was hit on 1 September (HRW account), a reminder that artisanal and industrial mining are targets.
-
-Quiet: no new verified uranium, fuel or mining news in the last 72 hours.
+Quiet: nothing significant in the last 72 hours. (Searches on gold, uranium and fuel returned nothing current; the Bamako fuel blockade status for November is unknown.)
 
 What to watch.
 
-16 November: close of the Francophonie summit in Phnom Penh; watch the Mauritanian candidacy outcome.
+Niger's promised referral to the UN Security Council and AU PSC over the Agadez drone strike, and any Chadian or French response, in the coming days.
 
-Coming days: whether Chad confirms or reverses any MNJTF withdrawal after the presidential security tour.
+Whether Algeria's reported deployment to Niger is confirmed by either government.
 
-Mali: any JNIM claim or official FAMa statement on the Sévaré-Konna axis and fuel convoys.
+Chad: fate of the 30 escaped Mongo inmates and the reaction to Gen. Bechir's suspension.
 
-Burkina Faso: government reaction to the HRW report and any new JNIM claims in Yatenga.
+Mali: any resumption of FLA or JNIM offensive action around Kidal and Bamako, and fuel supply to the capital.
 
-Niger: any new ruling or filing in the Orano uranium dispute.
+ECOWAS-AES follow-up talks after the Dakar meeting; no date found.
+
+Verification of the reported Niger civilian massacre (16 November) once AFP or Reuters coverage appears.
 
 That's the end of your Sahel briefing. Sources are on your dashboard.
