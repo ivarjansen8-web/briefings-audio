@@ -1,31 +1,27 @@
-Here is your classics report for Tuesday, 17 November.
+Here is your classics report for Wednesday, 18 November.
 
-Festinger and the Mind That Rewrites Itself.
+Thucydides and the Melian Dialogue: When Power Stops Pretending.
 
-In late 1954, a small group in suburban Chicago was waiting for the end of the world. Their leader, a housewife the researchers later called "Marian Keech," had received messages she believed came from beings on the planet Clarion: a great flood would destroy the earth before dawn on December 21, and the faithful would be rescued by flying saucer. Some followers quit their jobs and gave away their possessions. Among the believers, quietly taking notes, were a few undercover social psychologists led by Leon Festinger.
+Thucydides was an Athenian general who failed. In 424 BC he arrived too late to save the city of Amphipolis from the Spartans, and Athens sent him into exile. He spent the next twenty years doing something new: writing a history of the Peloponnesian War between Athens and Sparta that left out the gods and looked for human causes. He called the result "a possession for all time," and the boast has held up. His most famous passage is a short, chilling exchange known as the Melian Dialogue.
 
-Midnight came. No saucer. Dawn came. No flood. What happened next became the classic study When Prophecy Fails (1956), and it set Festinger on the path to one of psychology's most influential ideas.
+The scene.
+
+In 416 BC, Athens, then the great naval power of Greece, sent a fleet to Melos, a small island that wanted to stay neutral. Before attacking, the Athenian envoys sat down with the Melian leaders. Thucydides reconstructs the conversation as a debate, and the Athenians open it by refusing to pretend. They won't claim they have a right to rule, and they ask the Melians not to talk about justice either. Justice, they say, only comes into play between equals.
+
+"The strong do what they can and the weak suffer what they must."
+
+The Melians try everything. Fairness, they argue, protects everyone, including Athens on the day its own luck turns. The gods favour the just. Sparta will surely come to help its kin. The Athenians brush each hope aside. Hope, they say, is a comfort for those who can afford to lose; for the weak it is ruinous. Melos refused to submit. After a siege, Athens killed the men of military age and sold the women and children into slavery.
 
 The core idea.
 
-Festinger called it cognitive dissonance and set it out in A Theory of Cognitive Dissonance (1957). When we hold two beliefs that clash, or when our actions contradict what we believe, we feel a real discomfort, a mental itch. And we are strongly motivated to make it stop. The catch is that we rarely stop it by admitting we were wrong. More often we change the story: we add a new belief, downplay the evidence, or decide that what we did was what we wanted all along.
-
-The Chicago group did exactly that. Rather than abandon the prophecy, Keech announced a new message: the small band's faith had spread so much light that God had spared the world. The group that had shunned publicity now called newspapers and went looking for converts. Having given up so much, they could not afford to be wrong, so they believed harder.
-
-Festinger opened the book with a line that still lands.
-
-"A man with a conviction is a hard man to change. Tell him you disagree and he turns away. Show him facts or figures and he questions your sources. Appeal to logic and he fails to see your point."
-
-The experiment.
-
-In 1959, Festinger and James Carlsmith had students spend an hour on deliberately boring tasks, such as turning pegs on a board. Afterwards, some were paid 1 dollarsand others 20 dollarsto tell the next participant the task was fun. Later, the 1 dollarsgroup rated the task as more enjoyable. The 20 dollarsgroup had a good reason for the lie. The 1 dollarsgroup didn't, so their minds quietly closed the gap by deciding they had liked it.
+The dialogue is the founding text of what political scientists call realism: the view that among states, with no world government to enforce rules, power and self-interest decide outcomes, and moral language is often a cover for them. Thucydides doesn't tell you what to think. He lets both sides speak and then lets events reply. And here is the twist: the very next year, Athens launched its overconfident expedition to Sicily, which ended in catastrophe. The Melians' warning, that a power ruled only by its strength is building its own downfall, came true quickly.
 
 Why it still matters.
 
-Dissonance explains a lot of everyday life: why we defend a bad purchase, why it is so hard to walk away from a failing project we have poured years into, and why political arguments so often harden people instead of persuading them. Aesop knew the move already: the fox who can't reach the grapes decides they were sour anyway.
+The dialogue is still taught at military academies and in international relations courses, and it comes back whenever a large state pressures a small neighbour. It poses a question that hasn't gone away: is morality in politics an illusion, or the long-term interest that the powerful are too impatient to see?
 
-The practical lesson is self-knowledge. When you feel that sharp defensive itch, the urge to explain away an inconvenient fact, that is a signal worth noticing. It might be the moment your mind is choosing comfort over truth. And when trying to change someone else's mind, remember that cornering them raises the cost of being wrong. Leaving a graceful way to update often works better than winning.
+It works on a smaller scale too. In negotiations, in offices, in families, people with leverage are often tempted to drop the pretence of fairness. Thucydides suggests a sober double lesson. Don't let hope substitute for an honest reading of your position. And if you are the strong one, remember that the arrogance of power has a way of becoming the cause of its fall.
 
-A good starting point: Carol Tavris and Elliot Aronson's Mistakes Were Made (But Not by Me), a lively modern tour of dissonance in politics, marriage and law.
+A good starting point: Book 5, chapters 84 to 116 of the History (the Melian Dialogue), about ten pages. The Landmark Thucydides, edited by Robert Strassler, adds excellent maps and notes.
 
 That's the end of your classics report. Sources are on your dashboard.
