@@ -1,25 +1,27 @@
-Here is your classics report for Saturday, 21 November.
+Here is your classics report for Sunday, 22 November.
 
-Festinger and the Prophecy That Failed: Cognitive Dissonance.
+Thucydides and the Melian Dialogue: When Power Meets Justice.
 
-In the autumn of 1954, a Chicago-area woman named Dorothy Martin announced that beings from the planet Clarion had sent her a warning. A great flood would destroy much of the world before dawn on 21 December, and a flying saucer would arrive at midnight to rescue the faithful. Her followers quit their jobs, gave away their possessions and waited. Among them, posing as believers, were three social psychologists led by Leon Festinger, then a young professor at the University of Minnesota. They wanted to see what happens to people when reality flatly contradicts what they believe.
+Thucydides was an Athenian general who failed. In 424 BC he arrived too late to save the city of Amphipolis, and Athens exiled him for it. He spent the next twenty years watching the Peloponnesian War between Athens and Sparta from the outside, and writing its history. He wanted it to be, in his words, "a possession for all time" rather than a story to please the crowd. The most famous passage in it isn't a battle. It's a conversation.
 
 The core idea.
 
-Midnight came and went. No saucer appeared, and no flood followed. What happened next was the surprise. The group did not quietly give up. After hours of distress, Martin received a new message: their faith had been so strong that God had spared the world. The group, which had previously avoided publicity, started calling newspapers and preaching to anyone who would listen.
+In 416 BC an Athenian fleet sailed to Melos, a small island that wanted to stay neutral. Before attacking, the Athenian envoys sat down with the Melian leaders, and Thucydides reconstructs their exchange as a dramatic dialogue. The Athenians refuse to talk about right and wrong at all. Justice, they say, only comes into it between equals.
 
-Festinger called the underlying force cognitive dissonance: the mental discomfort we feel when we hold two ideas that clash, such as "I gave up everything for this" and "this was false." We are driven to reduce that discomfort, and the easiest way is often not to change the belief but to change how we see the facts, or to recruit others so that the belief feels confirmed. He set out the case in When Prophecy Fails (1956), which opens.
+"The strong do what they can and the weak suffer what they must."
 
-"A man with a conviction is a hard man to change. Tell him you disagree and he turns away. Show him facts or figures and he questions your sources. Appeal to logic and he fails to see your point."
+The Melians try every argument they have. Fairness is in your interest too, they say, because one day you may fall and need it. The gods will protect the innocent. Sparta will come to help us. The Athenians brush each one aside. Hope is an expensive luxury for the weak, they reply, and as for the gods: "of men we know, and of the gods we believe, that by a law of their nature they rule wherever they can."
 
-He then tested the idea in the lab. In a famous 1959 experiment with James Carlsmith, students did an hour of mind-numbing tasks, then were paid either 1 dollarsor 20 dollarsto tell the next participant it had been fun. Afterwards, the 1 dollarsgroup rated the task as more enjoyable. The 20 dollarsstudents had a good reason for lying. The 1 dollarsstudents didn't, so they quietly adjusted their opinion to match what they'd said.
+The Melians refused to surrender. Athens besieged the island, killed the men of military age, and sold the women and children into slavery. Thucydides adds no comment. He simply goes on to his next chapter, where the same confident Athenians launch their invasion of Sicily. Within two years it ended in total disaster.
 
 Why it still matters.
 
-Dissonance is everywhere once you look for it. It's why we defend a car we overpaid for, why hazing makes people more loyal to a club, and why a smoker finds reasons to doubt the health statistics. In politics, it helps explain why evidence against a cause can sometimes harden support instead of weakening it, since admitting the error would mean admitting the cost of having believed.
+The dialogue is the founding text of what political scientists call realism: the view that states act on power and self-interest, and that talk of justice between them is mostly decoration. Thomas Hobbes translated Thucydides into English before he wrote Leviathan, and diplomats and generals still study the passage, from war colleges to foreign ministries. Every time a large country tells a small neighbour that it has no real choice, the Melian Dialogue is being replayed.
 
-The original study deserves some caution: later historians have questioned how much the undercover observers themselves shaped the group's behaviour. But the theory has become one of the most influential in social psychology. Its practical lesson is uncomfortable and useful: the more you have invested in a belief, the less you should trust your own sense of how strong the evidence for it is.
+But it's a mistake to read Thucydides as simply siding with Athens. By placing Melos right before Sicily, he invites a darker reading. A power that stops believing limits apply to it also loses the ability to see its own limits. The Melians' warning, that the strong may one day need the restraint they now dismiss, turns out to be the more realistic argument after all.
 
-A good starting point: Carol Tavris and Elliot Aronson's Mistakes Were Made (But Not by Me), a lively modern tour of dissonance, then When Prophecy Fails itself.
+The lesson also works on a smaller scale. In offices and families, whoever holds the power is often tempted to treat "I can" as if it meant "I should." Thucydides suggests the people who reason that way are usually the last to notice when the tide turns.
+
+A good starting point: Book 5, chapters 84 to 116 of The History of the Peloponnesian War*, in the Rex Warner (Penguin) or Richard Crawley translation, or* The Landmark Thucydides*, edited by Robert Strassler, which adds helpful maps. The dialogue takes about twenty minutes to read.*
 
 That's the end of your classics report. Sources are on your dashboard.
