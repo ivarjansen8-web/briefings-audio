@@ -1,27 +1,25 @@
-Here is your classics report for Tuesday, 24 November.
+Here is your classics report for Wednesday, 25 November.
 
-Tolstoy's The Death of Ivan Ilyich: The Lie Everyone Agrees to Tell.
+Festinger and Cognitive Dissonance: When Prophecy Fails.
 
-By the late 1870s Leo Tolstoy had everything a writer could want. War and Peace and Anna Karenina had made him famous, he had a large estate and a big family, and he was in good health. Yet he was close to suicide. He described the crisis in A Confession: if death erases everything, what is the point of any of it? He emerged with a new, stripped-down Christian faith and a distrust of comfortable, conventional lives. In 1886 he put the whole struggle into a novella of barely sixty pages.
+In late 1954 a Chicago woman named Dorothy Martin announced that beings from the planet Clarion had sent her a warning: on 21 December a great flood would destroy much of the world, but true believers would be rescued by a flying saucer. A small group gathered around her. Some quit their jobs, gave away their possessions and left their spouses. Among the faithful were also a few newcomers who weren't believers at all. They were researchers sent by the social psychologist Leon Festinger, who wanted to answer a simple question: what happens to people when the prophecy fails?
 
 The core idea.
 
-Ivan Ilyich Golovin is a respectable judge in St Petersburg. He has a sensible career, a suitable marriage and a tastefully decorated apartment. Tolstoy's verdict comes in one of literature's most cutting sentences.
+The answer, published in When Prophecy Fails (1956), surprised almost everyone. Midnight came and went with no saucer. Early the next morning Martin received a new message: the group's faith had been so strong that God had spared the Earth. The believers didn't drift away in embarrassment. Instead, a group that had previously avoided publicity began phoning newspapers and actively looking for converts.
 
-"Ivan Ilyich's life had been most simple and most ordinary and therefore most terrible."
+Festinger's explanation became one of the most influential ideas in psychology: cognitive dissonance. Holding two thoughts that clash, such as "I gave up everything for this belief" and "the belief was false", produces real mental discomfort, and we are strongly motivated to make it go away. The easiest fix is rarely to admit we were wrong, especially when we have invested heavily. It is often easier to reinterpret the facts and recruit others to agree, because if more people believe it, it must be true. The book opens with a line that still rings true.
 
-While hanging curtains, Ivan slips and bangs his side. The small injury turns into a mysterious, fatal illness. The real horror of the story, though, is not the pain. It is the lie. His wife, his colleagues and his doctors all pretend he is just unwell and will soon recover, because the truth would be awkward and would interrupt their card games. Ivan joins in, and he is lonelier for it.
+"A man with a conviction is a hard man to change. Tell him you disagree and he turns away. Show him facts or figures and he questions your sources. Appeal to logic and he fails to see your point."
 
-He remembers a syllogism from his school logic book: "Caius is a man, men are mortal, therefore Caius is mortal." It had always seemed perfectly correct about Caius. It had never seemed to apply to him, little Vanya, who loved the smell of his mother's leather ball. Knowing that people die and believing that you will die turn out to be very different things.
-
-The only person who doesn't pretend is Gerasim, a young peasant servant. He cheerfully holds his master's legs up through the night to ease the pain and says simply that everyone dies, so why shouldn't he help? In his final hours Ivan finally admits that his life was "not the right thing", feels pity for his family instead of resentment, and the fear lifts. "In place of death there was light."
+In 1959 Festinger and James Carlsmith tested the idea in the lab. Students spent an hour on mind-numbing tasks, such as turning pegs on a board, and were then paid either 1 dollarsor 20 dollarsto tell the next participant it had been fun. Afterwards, those paid only 1 dollarsrated the task as more enjoyable. The 20 dollarsgroup had a good reason for lying. The 1 dollarsgroup didn't, so they quietly adjusted their memory of the task instead.
 
 Why it still matters.
 
-The novella has become a set text in medical schools. The surgeon Atul Gawande opens his book Being Mortal (2014) with Ivan Ilyich, arguing that modern medicine often repeats the family's lie by offering one more treatment instead of an honest conversation about what a dying patient actually wants. Psychologists see the same pattern too: Ernest Becker's The Denial of Death and the research it inspired suggest that much ordinary behaviour, from status-chasing to tribal loyalty, is partly a way of keeping our own mortality at arm's length.
+Dissonance helps explain why investors hold on to losing stocks, why people defend a bad purchase most fiercely just after making it, and why hazing makes club members more loyal rather than less. It also explains why political arguments so rarely change minds: evidence that threatens someone's identity tends to feel like an attack rather than information.
 
-Tolstoy's question isn't really about dying. It is whether the life you are building would still look right if you had to examine it honestly, the way Ivan finally did. He suggests it's better not to wait until the end to ask.
+Festinger's lesson works in both directions. When someone digs in against the facts, they are often protecting a past investment, not being stupid, so leaving them a dignified way to change their mind does more good than piling on proof. And when you feel that sudden urge to explain away an inconvenient fact, it is worth asking what you would have to admit if you didn't.
 
-A good starting point: the novella itself, in the Louise and Aylmer Maude or Richard Pevear and Larissa Volokhonsky translation. It can be read in a single evening.
+A good starting point: When Prophecy Fails by Festinger, Riecken and Schachter, which reads like a strange true-crime story, or Carol Tavris and Elliot Aronson's Mistakes Were Made (But Not by Me), a lively modern tour of dissonance in everyday life.
 
 That's the end of your classics report. Sources are on your dashboard.
