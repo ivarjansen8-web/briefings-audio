@@ -1,25 +1,27 @@
-Here is your classics report for Wednesday, 25 November.
+Here is your classics report for Friday, 27 November.
 
-Festinger and Cognitive Dissonance: When Prophecy Fails.
+Thucydides and the Melian Dialogue: The Strong Do What They Can.
 
-In late 1954 a Chicago woman named Dorothy Martin announced that beings from the planet Clarion had sent her a warning: on 21 December a great flood would destroy much of the world, but true believers would be rescued by a flying saucer. A small group gathered around her. Some quit their jobs, gave away their possessions and left their spouses. Among the faithful were also a few newcomers who weren't believers at all. They were researchers sent by the social psychologist Leon Festinger, who wanted to answer a simple question: what happens to people when the prophecy fails?
+In 424 BC an Athenian general named Thucydides arrived too late to save the city of Amphipolis from the Spartans. Athens punished him with twenty years of exile. He used the time to write the History of the Peloponnesian War, the long struggle between Athens and Sparta, and he set out to explain not just what happened but why people and states behave as they do. He hoped, he said, that his book would be "a possession for all time". It has turned out that way, largely because of one short, chilling scene.
 
 The core idea.
 
-The answer, published in When Prophecy Fails (1956), surprised almost everyone. Midnight came and went with no saucer. Early the next morning Martin received a new message: the group's faith had been so strong that God had spared the Earth. The believers didn't drift away in embarrassment. Instead, a group that had previously avoided publicity began phoning newspapers and actively looking for converts.
+In 416 BC an Athenian fleet anchored off Melos, a small island that wanted to stay neutral in the war. Before attacking, the Athenian envoys sat down with the Melian leaders, and Thucydides reconstructs their conversation as a debate.
 
-Festinger's explanation became one of the most influential ideas in psychology: cognitive dissonance. Holding two thoughts that clash, such as "I gave up everything for this belief" and "the belief was false", produces real mental discomfort, and we are strongly motivated to make it go away. The easiest fix is rarely to admit we were wrong, especially when we have invested heavily. It is often easier to reinterpret the facts and recruit others to agree, because if more people believe it, it must be true. The book opens with a line that still rings true.
+The Athenians refuse to dress things up. They won't pretend they have a just cause, and they ask the Melians not to waste time arguing about fairness either. Justice, they say, only comes into play between equals.
 
-"A man with a conviction is a hard man to change. Tell him you disagree and he turns away. Show him facts or figures and he questions your sources. Appeal to logic and he fails to see your point."
+"Right, as the world goes, is only in question between equals in power, while the strong do what they can and the weak suffer what they must." (trans. Richard Crawley)
 
-In 1959 Festinger and James Carlsmith tested the idea in the lab. Students spent an hour on mind-numbing tasks, such as turning pegs on a board, and were then paid either 1 dollarsor 20 dollarsto tell the next participant it had been fun. Afterwards, those paid only 1 dollarsrated the task as more enjoyable. The 20 dollarsgroup had a good reason for lying. The 1 dollarsgroup didn't, so they quietly adjusted their memory of the task instead.
+The Melians try every argument they have. Destroying a neutral island will turn other states against Athens. The gods favour the just. Sparta will surely come to help its kin. The Athenians answer each one coldly: the gods and men alike rule wherever they can, Sparta looks after its own interests, and hope is a luxury that only the strong can afford. The Melians choose freedom over surrender. Athens besieges the city, kills the men and sells the women and children into slavery.
+
+Thucydides offers no comment. He simply moves on to the next year, when a confident Athens launches a vast invasion of Sicily that ends in catastrophe. Readers have been left to draw the connection themselves: a power that believes it answers to nothing may be heading for a fall.
 
 Why it still matters.
 
-Dissonance helps explain why investors hold on to losing stocks, why people defend a bad purchase most fiercely just after making it, and why hazing makes club members more loyal rather than less. It also explains why political arguments so rarely change minds: evidence that threatens someone's identity tends to feel like an attack rather than information.
+The Melian Dialogue is the founding text of "realism" in international relations, the school of thought, associated with Hans Morgenthau and Kenneth Waltz, which holds that states act on power and interest rather than morality. It is assigned in military academies and diplomatic schools worldwide. The political scientist Graham Allison has drawn on the same history for the idea of the "Thucydides Trap": the risk of war when a rising power threatens an established one.
 
-Festinger's lesson works in both directions. When someone digs in against the facts, they are often protecting a past investment, not being stupid, so leaving them a dignified way to change their mind does more good than piling on proof. And when you feel that sudden urge to explain away an inconvenient fact, it is worth asking what you would have to admit if you didn't.
+Yet the dialogue cuts both ways. It can be read as a hard-headed warning to small states not to count on the kindness of strangers, or as a portrait of how power corrupts the people who hold it. That tension is why it endures. Whenever a large country pressures a small one, or anyone with leverage says "let's be realistic", the Athenians and the Melians are still arguing.
 
-A good starting point: When Prophecy Fails by Festinger, Riecken and Schachter, which reads like a strange true-crime story, or Carol Tavris and Elliot Aronson's Mistakes Were Made (But Not by Me), a lively modern tour of dissonance in everyday life.
+A good starting point: Book 5, chapters 84 to 116 of the History*, which you can read in twenty minutes, in Crawley's classic translation or in* The Landmark Thucydides edited by Robert Strassler, which comes with excellent maps.
 
 That's the end of your classics report. Sources are on your dashboard.
