@@ -1,153 +1,145 @@
-Here is your US briefing for Friday, 27 November.
+Here is your US briefing for Saturday, 28 November.
 
-ABC wins injunction against FCC, new tariffs on 14 partners, Iran closes Hormuz further.
+GOP revolt over Nvidia's Huang, Iran strikes threat for 2027, Air Force cloud breach.
 
-Compiled from sources dated 24 to 27 November 2026. Items marked (unconfirmed) are single-source or early reports.
+Compiled from sources dated 25 to 28 November 2026. Items marked (unconfirmed) are single-source or early reports.
 
 1. Top stories.
 
-A federal judge blocked the FCC's early licence review of eight ABC-owned stations on 25 November. Judge Loren AliKhan found Disney likely to win its First Amendment claim and wrote that FCC Chair Brendan Carr treated Trump's rhetoric as "marching orders"; the FCC calls the ruling "wrong on the facts and wrong on the law" and is appealing, a significant test of presidential pressure on broadcasters.
+Republicans are openly breaking with Trump over the return of Jensen Huang as Nvidia CEO. Senators Cotton, Cornyn, Cramer and Curtis have criticised the reinstatement, and Trump told CNBC "I made the deal" and floated a pardon for Huang as an option. It matters because it is a rare bipartisan push for an inquiry into administration ties to Nvidia and Trump's own holdings.
 
-The administration proposed new Section 301 tariffs on 14 trading partners, including China, the EU, Japan and India. China would face 20% on top of existing duties and the EU and Japan up to 15%, but Reuters-sourced reporting says the rates are unlikely to take effect before February or March.
+Trump says strikes on Iran could resume after the New Year if talks fail. He said he is not rushing a decision, while Iran has stepped up shipping attacks near Hormuz and the US Navy keeps its blockade of Iranian ports. The window is limited by war funding, which Trump says runs through January.
 
-Iran has ordered the Strait of Hormuz closed "further day by day" while Qatar tries to revive talks. The US blockade of Iranian ports remains in force, so the war that began on 28 February has no confirmed deal in sight.
+Hackers reportedly breached the Air Force's Cloud One platform, Reuters reported on 27 November. Three sources say intruders reached the control plane of a system that hosts pay data and supports air-defence radar command and control; Cyber Command has been called in and the Air Force declined comment. The scope and perpetrator are unknown (unconfirmed, single-source).
 
-A district judge struck down the administration's narrower birthright-citizenship restrictions. Judge Christopher Cooper held that affected children remain under US jurisdiction; the White House called it "just another ruling from an activist judge."
+The administration proposed a new tariff wave on China, the EU, Brazil and others over subsidised factories. Duties are unlikely to bite before February or March, with an industry hearing set for 25 January.
 
-Funding expires on 11 December and Congress returns from the Thanksgiving break to a crowded lame duck. Democrats won both chambers on 3 November, so Republicans have a short window for any priorities.
+A 11 December funding deadline looms for a lame-duck Congress. A stopgap runs out that day, and some Democrats want to attach Iran-war conditions.
 
 2. White House and the administration.
 
-Trump proclaimed Thursday 26 November a National Day of Thanksgiving, framed around the 250th anniversary of independence. The proclamation fits the administration's heavy semiquincentennial branding.
+Trump met NATO Secretary-General Mark Rutte at Mar-a-Lago on 25 November. Their joint statement urged Russia not to "expand the war" but announced no ceasefire, deadline or peace plan. Newsweek reports Trump's own version of the text differs from NATO's by two words (not verified which).
 
-Trump awarded Rudy Giuliani the Presidential Medal of Freedom, per the White House events page. Vance visited troops at Wright-Patterson Air Force Base on 25 November.
+Trump said he is fine with Huang returning to Nvidia and that "the board made the correct and proper decision." The Pentagon denies a Washington Post report that Hegseth discussed using a Cold War-era law to pressure Nvidia's board; a defence official told Newsweek the talks never happened. Treat the Post report as contested.
 
-Trump said he pressed Putin to pull back military activity in Europe and negotiate a Ukraine deal. The remarks come as US envoys push security-guarantee talks.
+The White House is reportedly weighing moving the press corps out of the West Wing. This follows a ruling that its ban on CNN, MS NOW and Politico likely violated the First Amendment; the administration is appealing.
 
-Reports say Trump backs Jensen Huang's return as Nvidia CEO and claims "victory at hand" in Iran (unconfirmed). This rests on a single secondary outlet, and the Iran claim sits uneasily with the closure of Hormuz.
+Approval remains weak. Aggregates put Trump around 36 to 38% approve, with Economist/YouGov at 32% and Echelon at 26% in mid-November. Independents drive the slide.
 
-A Wikipedia appointments table lists November staffing changes, including Stephen Miller as chief of staff in place of Susie Wiles (unconfirmed). I found no news report confirming this, so treat it with caution.
+Kilmar Abrego Garcia landed in Spain as a "free man" after his long deportation fight. NBC reports the case has ended for now.
 
 3. Congress (House, Senate, key votes, investigations)
 
-The Senate is out until 30 November, and the lame duck faces the 11 December funding cliff, the SAVE America Act and a bipartisan tax package. Reporting describes poor House GOP attendance since the election and doubts that big ambitions are achievable.
+No significant floor votes were reported on 27 November. Congress is in the Thanksgiving recess; the lame-duck session resumes next week.
 
-The Senate passed a bill called BAAJA 62 to 33 on 19 November, with House action expected under a rule (unconfirmed). The source is a single law-firm blog, and the final coalition was 47 Republicans, 14 Democrats and Angus King.
+Funding runs out on 11 December, and a lapse would begin on Saturday 12 December. Thune says the public does not want another shutdown, while some Democrats want to use the deadline to press on the Iran war; the farm bill and defence authorisation are also queued.
 
-Leadership fights are brewing: Thune is seeking to remain Senate GOP leader while Ron Johnson, Mike Lee and Rick Scott pressed to delay the vote. On the Democratic side, Jeffries is the expected Speaker candidate and Van Hollen is challenging Schumer.
+Bipartisan concern over Nvidia is growing in the Senate. Cotton called the Megaspeed affair "just the tip of the iceberg" and Republicans have joined Democrats in seeking an investigation.
 
-Rep. Thomas Massie filed impeachment articles against Hegseth over the Iran war, and Democrats plan war-powers action on the first day of the next Congress on 3 January. Rep. Gregory Meeks says he will introduce a joint resolution to end the war.
-
-Congressional intelligence committees complained that a classified memo on possible Chinese surveillance of Alice Huang was withheld from a 25 November staff briefing. See the intelligence section.
+Democrats are projected to take both chambers in January. ABC's projection pages show roughly 259 House seats for Democrats and a 56 to 44 Senate; the figures are projections, so check final certified counts. The outgoing Republican Congress holds power until 3 January. ABC News Senate map (unconfirmed)
 
 4. Courts and the Supreme Court.
 
-Judge AliKhan's preliminary injunction against the FCC also denied the agency's motion to dismiss. It does not bar future licence reviews, and the administration is appealing to the DC Circuit.
+The Supreme Court agreed on 13 November to decide whether Trump can suspend asylum at the southern border. Two lower courts rejected the rationale but the policy stays largely in force; SCOTUSblog points to argument in spring, while another outlet says December.
 
-Judge Cooper's birthright ruling follows a Supreme Court loss for the administration, after which it tried narrower restrictions. A separate order protects the certified class in ACLU's Nathan v. Trump.
+The Court will also hear an Eighth Amendment challenge to Alaska's seizure of a pilot's plane carrying beer. The Alaska Supreme Court upheld the forfeiture.
 
-The Supreme Court granted the government's stay application in the Big Bend border-wall case on 9 November, with Justice Jackson dissenting. The case is Mullin v. Friends of the Ruidosa Church. I found no Court action dated 26 November.
+Arguments on AR-15 bans in Illinois and Connecticut are set for Wednesday, with a decision pending on whether to dismiss the Cook County case as moot. iHeart, 27 November (unconfirmed)
 
-An emergency-docket tracker shows the Court granting 9 and denying 82 of 91 applications it ruled on this term, with 14 pending. Trackers disagree on how to classify some matters, such as the 2 November California mail-ballot dispute.
-
-A federal court order treating Abrego Garcia's exit to Spain as a deportation was reported on 25 November, via a partisan outlet (unconfirmed). DHS had called it "self-deportation."
+Judge Timothy Kelly's injunction keeps CNN, MS NOW and Politico reporters in the White House. He found the ban likely retaliatory and viewpoint-based, and the government is appealing.
 
 5. Parties, elections and polls.
 
-Trump's approval averages 36 to 38% in late November, with a net rating around -22. The aggregates are from RealClearPolitics-style averages and PollWave; individual polls vary.
+After the 3 November midterms, Democrats hold the advantage in Washington's next Congress. Trump's approval fell further in the weeks after; net approval is about -22.
 
-An American Research Group poll put Trump at 29%, the lowest of his second term, with 25% approving his handling of the economy (unconfirmed). Single-poll outliers should be weighed against the averages.
+Republican approval of Trump has slipped. CNN's October poll had 74% of Republicans approving, down from 88% in February 2025, while only about 21% of independents approve.
 
-Gallup reportedly stopped publishing presidential approval ratings (unconfirmed). If accurate, it removes the longest-running benchmark series.
+Appetite for mid-decade redistricting is fading in both parties after the blue wave. MS NOW argues Trump's map push could not withstand the swing; this is a left-leaning outlet's framing.
 
-Democrats won both chambers on 3 November, with NBC projecting a 56 to 44 Senate split (election-night projection, not certified).
-
-House Democratic committee-leadership races are set for 9 December.
+Republican senators are now publicly diverging from Trump on Nvidia, an early sign of lame-duck independence.
 
 6. Foreign policy (Middle East focus)
 
-Iran's foreign minister said reopening Hormuz is "not difficult" if the US accepts Tehran's conditions, while its army chief ordered the strait closed further. Araghchi called the US blockade "completely illegal," and Qatar's prime minister urged Rubio and Vance to restart talks.
+Trump said strikes on Iran may resume after the New Year if no deal is reached. A June framework to end hostilities stalled over Hormuz navigation; Iran says it will not discuss reopening until its conditions are met.
 
-The IRGC claimed three tankers under US escort hit mines, which maritime monitors called unconfirmed. Escalation risk at sea is the main variable for any renewed US strikes.
+Israeli media report Mossad chief Roman Gofman is pushing for an independent Israeli strike on Iran if Washington declines a joint one. This is a Yedioth/Ynet claim relayed by Xinhua (unconfirmed).
 
-The Gaza ceasefire from October 2025 persists but Hamas has not disarmed. The Congressional Research Service flags open questions about the next stage of the US 20-point plan.
+Israel's security cabinet was due to meet Sunday on Trump's stalled Gaza plan, including an international stabilisation force. Kushner reportedly warned Netanyahu that Israel risks pariah status, and Board of Peace adviser Josh Gruenbaum said the board could hand Gaza back to the UN.
 
-Israeli politics: Yashar and UTJ reportedly agreed key principles of a Haredi draft law on 26 November. The deal bears on coalition stability in wartime.
+Defence Minister Israel Katz threatens a fresh Gaza offensive if Hamas does not disarm. It cuts against the Board of Peace push.
 
-ISW says US negotiators detailed Ukraine security guarantees but that the proposed approval process could block them, and that Washington is still holding up Western-funded Patriot interceptors. Reuters-type wire coverage of the Abu Dhabi talks produced only a prisoner-swap agreement.
+Trump and Rutte urged Russia not to widen the Ukraine war. It came after Trump's Shenzhen talks with Putin and Xi produced no ceasefire, and hours before Russian missiles hit Kyiv.
 
 7. Defence and the Pentagon.
 
-The Pentagon released a blunt fact sheet criticising Canada over defence spending and its F-35 review, after a classified Hegseth memo restricting cooperation. Ottawa says it has not seen the memo.
+The Pentagon is barring lawmakers from Gulf bases. Hegseth's 3 March memo requires his personal approval for congressional delegations, and Sen. Chris Murphy was denied access to Al Udeid, calling it a "cover-up." Former officials call it a lack of transparency; the Pentagon says the rule applies uniformly.
 
-The Washington Post reported that Hegseth and others discussed using the Defense Production Act to pressure Nvidia's board, which the Pentagon denies. The denial leaves it a contested single-outlet report.
+The Air Force Cloud One breach has revived Signalgate scrutiny. An inspector general earlier found Hegseth violated policy in his Signal use; the platform's prime contractor changed from SAIC to Leidos in 2025.
 
-Inside Defense headlines put the Iran war's cost at 48.3 dollarsbillion and cite persistent munitions shortages. The White House also wants broad exceptions in the FY27 continuing resolution.
+A reported classified directive would restrict military cooperation with Canada. The Pentagon says NORAD, NATO and intelligence cooperation are untouched, and Ottawa sees no change. CBC (unconfirmed)
 
-Former Pentagon officials say Hegseth is blocking senators from visiting Gulf bases, calling it a lack of transparency. Oversight friction is likely to sharpen once Democrats take the committees.
-
-Hegseth has vowed to defend Pentagon policies as Democrats take Congress. He has also called for a 1.5 dollarstrillion defence budget.
+The Navy keeps its blockade of Iranian ports, and US forces recently struck Qeshm Island after an Iranian attack on a base in Kuwait.
 
 8. Intelligence and OSINT.
 
-US agencies told congressional staff on 25 November that China's MSS may have surveilled Alice Huang, partner of Nvidia CEO Jensen Huang. CBS says no evidence shows she was directed to collect or passed substantial intelligence; both intelligence committees complained the classified memo was withheld.
+Reuters-sourced reporting says Cyber Command is assessing the Air Force Cloud One intrusion. No attribution has been made public and the Air Force will not discuss network security (unconfirmed, single-source).
 
-A secondary report citing the New York Times says officials told Congress that Huang passed information to the MSS (unconfirmed). The accounts conflict, so her role is unsettled.
+Israeli press reports on Mossad's push for independent action against Iran are the main intelligence-adjacent item (unconfirmed, second-hand).
 
-Two criminal export-control probes involving Megaspeed and Super Micro remain open. CBS also reported that two California buyers of Nvidia's top chips are Chinese-owned.
+CIA, FBI, NSA, ODNI, DIA: Quiet. Nothing significant found in the last 72 hours; the latest searchable hearings were from March.
 
-CBS's report refers to "then-Director of National Intelligence Tulsi Gabbard," which suggests a leadership change (unconfirmed). I could not find the successor or the circumstances.
-
-Open-source, unverified: Bellingcat tracked the tanker Krasnodar at Sevastopol's Avlita terminal on 26 November with AIS switched off, and found EU Sentinel-1 imagery over Gaza and parts of the region is delayed 24 hours. ISW separately reports 112 Russian strike drones launched overnight 24 to 25 November.
+Open-source (ISW, unverified): Russia is moving to criminalise sharing unapproved information about Ukrainian strikes. ISW also assesses Moscow may prepare a false flag in Moldova, says North Korea paused military aid while its missile crews remain, and notes Ukrainian strikes on an Iskander plant on 26 to 27 November.
 
 9. Economy, trade and tariffs.
 
-The Fed's preferred inflation gauge rose 3.8% year on year in October, and futures price a 98% chance of a 25bp hike in December. The tariff proposals add to the expectation of higher-for-longer rates.
+The Fed is priced for a December rate hike. Futures put a 25bp move near 95%+ at the 8 to 9 December FOMC; Governor Waller floated a half-point move. The target range is 3.75 to 4.00%.
 
-Third-quarter GDP was revised up to 4.3% annualised from 3.4%, the fastest in three years. Strong growth with hot inflation is what is driving the rate-hike pricing.
+October CPI rose 0.4%, with inflation near 4% annually. Prices have matched or outpaced wage growth for three months.
 
-Stocks recovered as markets judged the tariff impact limited. A Capital Economics economist called the extra burden small but a marginal boost to prices.
+Third-quarter growth was 4.3% annualised and jobless claims were 189,000. Axios says the economy looks overheated, with core PCE up 0.3% in October.
 
-The government is funded only through 11 December under the FY27 continuing resolution (P.L. 119 to 103). As of late November no new funding bill or extension had been enacted.
+The proposed tariff hikes on China, the EU and Brazil await industry feedback and a 25 January hearing.
 
 10. Immigration and homeland security.
 
-DHS says ICE made 483,200 removals and over 491,000 arrests in fiscal 2026, both records. This is still short of Trump's one-million-a-year goal, and the figures come from the agency itself.
+DHS says ICE set records in fiscal 2026, with 491,000+ arrests and 483,000+ deportations. Nearly 1.2 million have been deported since January 2025, still short of Trump's one-million-a-year goal; CBS frames it as a political "reckoning."
 
-The acting ICE director confirmed that removals will be by air and land only, ruling out deportation ships.
+Port of Seattle says Sea-Tac had a day's notice of an ICE arrest of a father and daughter on a jet bridge. That reverses its earlier account, and the family's lawyer disputes a final removal order exists (unconfirmed, single outlet).
 
-ICE arrested a Salvadoran man in Boston days after he won 1 dollarsmillion in the state lottery. It is a case likely to feed the debate over enforcement priorities.
+ICE confirmed it will not use ships for deportations. Removals continue by air and land.
 
-Judge Cooper's birthright ruling is the main legal constraint on the administration's citizenship agenda.
+The Supreme Court will review the asylum suspension. The policy stays largely in effect meanwhile.
 
 11. States and governors.
 
-D.C. Council member Brooke Pinto urged five newly elected Democratic governors (Georgia, Iowa, Nevada, Ohio, Texas) to withdraw their 628 National Guard troops from Washington. The Pentagon has authorised the mission through January 2029, and incoming governors can recall troops but the administration may seek workarounds.
+New York's redistricting amendment must pass again next term and then go to voters. Gov. Hochul said she wants to look at it "long term."
 
-Georgia's governor-elect has criticised the mission without announcing a recall, and Iowa's wants to consult military leaders first.
+Missouri's Gov. Kehoe is not focused on redistricting for the 2027 session, a sign of cooling in Republican states.
 
-Maryland voters approved Question 3 on 3 November with about 60%, and a 2027 to 28 redistricting overview lists Maryland and New York among states with new maps planned. I found no fresh redistricting action dated within 72 hours.
+Other states: Quiet. Nothing else significant found in the last 72 hours.
 
 12. Media and public opinion.
 
-The ABC ruling is the week's main press-freedom story, with ABC saying the review had a chilling effect. Coverage ranges from NPR and Time describing a "not a close case" defeat to conservative outlets such as RedState framing it as a Disney win from an activist bench.
+A federal judge extended the block on the White House ban of CNN, MS NOW and Politico. The Justice Department calls access a privilege and is appealing.
 
-NPR separately reported a Justice Department antitrust probe into the five networks in the White House video pool, including ABC and CNN. It is a second front in the administration's dealings with the press, though the report is not dated precisely.
+CBS reports Trump is weighing moving the press corps out of the White House. It is a single report so far (unconfirmed).
 
-A Newsweek-cited tracker shows Trump's net approval about -22 three weeks after the midterms, and only a quarter of respondents in one poll approve of his economic handling. Inflation at 3.8% is the likely driver.
+Public opinion is sour. Trump's approval sits in the mid-to-high 30s, and Economist/YouGov found 63% disapproval.
+
+Conservative outlets such as Breitbart ran the Cloud One breach story while the left-leaning Daily Beast framed it as a Hegseth humiliation, showing the split in framing.
 
 What to watch.
 
-30 November: Senate returns from the Thanksgiving break; the House plans a permitting-reform floor vote that week.
+Sunday 29 November: Israel's security cabinet takes up Trump's Gaza plan before Nickolay Mladenov briefs the UN Security Council on disarming Hamas.
 
-Early December: the FCC's appeal of the ABC injunction, and any White House response to the birthright ruling.
+Week of 30 November: Congress returns; the Nvidia inquiry and any Iran-war conditions on funding start to take shape.
 
-7 December week: House floor time for the NIL bill; Democratic leadership votes (Jeffries nomination, Schumer-Van Hollen contest).
+Wednesday 2 December: Supreme Court arguments on AR-15 bans from Illinois and Connecticut (per iHeart; verify date).
 
-9 December: House Democratic committee-leadership races.
+8 to 9 December: FOMC meeting, with a 25bp hike priced in and Waller pushing for 50bp; CPI follows on 10 December.
 
-11 December: FY27 funding expires; watch for a new CR and Pentagon exemption requests. The Fed's December meeting follows with a hike priced in.
+11 December: Federal funding deadline; a lapse would start on 12 December.
 
-3 January: the new Congress convenes; Meeks plans an Iran war-powers resolution on day one.
+January: Trump's signalled window to resume Iran strikes; a 25 January tariff hearing.
 
 That's the end of your US briefing. Sources are on your dashboard.

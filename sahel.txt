@@ -1,115 +1,137 @@
-Here is your Sahel briefing for Friday, 27 November.
+Here is your Sahel briefing for Saturday, 28 November.
 
-Mali's JNIM issues Tonka blockade ultimatum; 37 civilians killed in Niger's Téra area; AES-ECOWAS talks stall.
+Niger reports 13 soldiers killed in Tillabéri; Burkina's JNIM-ISSP war; Barrick-Mali talks resume.
 
-Compiled from sources dated 5 to 26 November 2026 (most sections widened beyond 24 hours; see notes). Items marked (unconfirmed) are single-source or early reports. Note: most outlet pages could not be fetched in this session (network allow-list), so items rest on search-result summaries, not full-article reads.
+Compiled from sources dated 4 to 27 November 2026. Items marked (unconfirmed) are single-source or early reports.
+
+Method note: direct page fetching (WebFetch) was blocked for most outlets in this run, so every item below rests on search-engine summaries of the cited pages, not on a full read. Very little indexed reporting was dated within the last 24 to 72 hours, so most sections reach back up to three weeks and say so. Treat all figures as provisional and check the linked pages.
 
 1. Top stories.
 
-JNIM gave residents of Tonka (Timbuktu region, Mali) until 27 November to leave before it blockades the town. The ultimatum follows the arrival of Malian army and Russian Africa Corps troops, and extends JNIM's blockade strategy, used on fuel convoys since September 2025, to the north.
+Thirteen Nigerien soldiers were reportedly killed in an attack in Tillabéri, according to an allAfrica press review dated 27 November (unconfirmed). I could not find a second source or the underlying report, and a targeted search surfaced only earlier 13-fatality incidents, so the date and toll need checking; Tillabéri remains Niger's deadliest theatre.
 
-At least 37 civilians were reported killed by "armed men" in western Niger around 12 November. The attack was near Téra in Tillabéri, a recurring hotspot; no perpetrator was named in the summary I could see.
+The AES states validated three joint health-cooperation mechanisms on 27 November, per the same press review (unconfirmed). It is a small but concrete step in building parallel institutions to ECOWAS.
 
-Burkina Faso's JNIM and Islamic State Sahel are reported fighting each other, per Al Jazeera. Clashes intensified around Ganadaouri (Oudalan) on 9 October; this may ease pressure on the state, which Al Jazeera says is losing ground.
+Barrick's new head of non-North American mining reportedly met Mali's prime minister in Bamako on 25 November (unconfirmed). The meeting is described as the first since the two-year gold dispute and reportedly included a site visit to Loulo-Gounkoto.
 
-AES-ECOWAS talks continue without a deal. One outlet reports no final agreement or new visa/border measures as of 25 November, and the Sahel side says the talks are not about returning to ECOWAS.
+Burkina Faso has seen no large-scale jihadist attack since late June, AFP reported on 6 November, but analysts call the lull deceptive. Attack frequency stays high while lethality has dropped, and JNIM's rivalry with Islamic State Sahel may be absorbing fighters.
+
+Mauritanian opposition leader Biram Dah Abeid resigned his parliamentary seat on 9 November. He announced it during the prime minister's policy-statement debate, a sharp signal of political tension in a state otherwise seen as the Sahel's stable exception.
 
 2. Mali.
 
-JNIM's Tonka ultimatum expires today, 27 November. It targets a Timbuktu-region town newly garrisoned by the army and Africa Corps; whether a blockade follows is the key near-term indicator.
+JNIM claimed an IED attack on 2 November on a vehicle carrying Malian army and Russian Africa Corps personnel between Sévaré and Konna. This is a JNIM claim; no casualty figure was given in the summary I saw, and the claim is not independently verified.
 
-The army and JNIM traded competing strike claims in central Mali around 18 November (Léré, Kadiana, Boulkessi). Neither side's claims are independently verified, and one report says four central villages emptied (unconfirmed).
+Mali's council of ministers met on 27 November and announced a national exports day for 7 December in Bamako. The communiqué comes from junta-controlled channels and shows the government projecting normality despite the war.
 
-Malian and Russian forces reportedly hold Kidal, Anefis and Aguelhok but not Tessalit or Tinzaouaten; the FLA has not laid down arms. An FLA claim of strikes on Anefis on 5 November is unverified.
+The wider context is the April 2026 JNIM and FLA offensive, which the US National Counterterrorism Center says took Kidal and hit sites near Bamako. Mauritania's president called on 10 November for solidarity with Mali, which he described as a war reshaping the region (see section 6).
 
-JNIM claimed Russian airstrikes hit civilians in Tamardant (Kidal) and an Africa Corps strike hit Ti-n-Essako on 23 November (unconfirmed). These are militant-side or single-source claims.
-
-Analysts say JNIM in central Mali has shifted toward administration (taxes, dispute mediation). This suggests entrenchment rather than only raiding.
+No new battlefield reporting from the last 72 hours was retrievable. Mali is therefore effectively Quiet in the sources available to me, which is an artefact of my access and not proof of calm.
 
 3. Burkina Faso.
 
-Quiet on fresh battlefield reporting: I found no dated attack report for the last 72 hours, so this section widens to November. The junta restricts media, so independent confirmation is thin.
+No large-scale jihadist attack since late June, per AFP (6 November), and state media reported a JNIM "terrorist leader" killed in late October. The kill claim comes from Burkinabè state media and is unverified.
 
-Human Rights Watch (4 November) documented a JNIM attack on 1 September on a gold-mining site at Soubo, killing 24 people. JNIM acknowledged it but says the victims were VDP auxiliaries, not civilians.
+JNIM and Islamic State Sahel are fighting each other in Burkina, with the state losing ground, Al Jazeera reported on 13 November. The rivalry could buy Ouagadougou breathing room if JNIM diverts forces to defend its positions.
 
-ACLED counted 125 JNIM attacks in Burkina Faso from January to August 2026, with 188 civilians killed (per the search summary of HRW/ACLED data).
+Human Rights Watch said on 4 November that an al-Qaeda-linked group killed at least 27 civilians in two September attacks in Yatenga province. This is an HRW finding about earlier events and underlines continued civilian targeting.
 
-Burkina Faso reportedly restored the death penalty (date not confirmed in my results). It fits a pattern of junta tightening.
+HRW's April report accuses all parties of war crimes, and the Traoré government rejects that the country is in an armed conflict. It matters for any future accountability debate.
 
 4. Niger.
 
-At least 37 civilians killed near Téra, Tillabéri, per AFP (about 12 to 13 November). Attackers are described only as "armed men".
+Thirteen soldiers were reportedly killed in Tillabéri, per an allAfrica review dated 27 November (unconfirmed). Niger's defence ministry usually issues tolls days later, so the figure may change.
 
-Dawn reports an attack on a military detachment in Téra killing 16 soldiers and wounding 23, per Niger's state news agency (date unconfirmed, possibly November; could be a July event). Treat as (unconfirmed).
+The most recent confirmed large attack I could find was on 17 July near Doungourou on the Bankilaré-Téra axis, where the defence ministry reported 16 soldiers killed and 23 wounded. This is a government figure and shows the pattern in Tillabéri.
 
-Tiani and Goïta pledged at an AES meeting in early November to intensify counter-terrorism. This is junta-aligned messaging.
+Niamey hosted the first AES ministerial conference on education on 10 to 11 November. It adds to the confederation's institution-building.
 
-Background: a soldiers' mutiny at Niamey's airbase on 29 August was followed by purges and a new army chief of staff, Gen. Mamane Sani Kiaou (11 September). Regime cohesion remains a question.
+No other Niger developments within 72 hours could be retrieved.
 
 5. Chad.
 
-Quiet: nothing significant in the last 72 hours. My searches returned no recent Chad reporting.
+President Mahamat Idriss Déby began a security tour of provinces on 7 November and suspended General Hamoda Mahamat Béchir, commander of defence zone no. 8, at Torboul in Ennedi Ouest. The decision was reported by Chadian outlets close to the presidency and signals unease over security in the north-east.
+
+Déby inspected infrastructure projects in Abéché on 11 to 12 November. The stop is near the Sudan border, where refugee inflows strain the east.
+
+A partial legislative election is reportedly set for 13 December in Assoungha department (unconfirmed). It is a minor vote with little weight on the national balance.
+
+Alwihda reports a "triumph" for Chad at an extraordinary ECCAS summit, and the 27 November press review says chairmanship passes to Chad (unconfirmed, sources conflict on the date and the post). Alwihda is Chadian and sympathetic to the government.
 
 6. Mauritania.
 
-Mauritania's terrorism prosecutor has brought proceedings against 24 people for conspiracy against state security, incitement to hatred, disclosure of military information, false news and money laundering (date not confirmed). It signals tight domestic security control.
+Biram Dah Abeid resigned as MP on 9 November during the prime minister's confidence debate. He leads the best-known anti-slavery and opposition movement, so the move reshapes the opposition.
 
-Otherwise quiet: nothing else significant found in the last 72 hours.
+Prime Minister El Moctar Ould Djay was reappointed after resigning with his government, and a 29-minister cabinet was formed (dates unclear in my sources). One report ties the resignation to a Somelec utility fire (unconfirmed, single source).
+
+President Ghazouani called for solidarity with Mali on 10 November, describing the war as upsetting the whole region's balance. The year of the source is unclear.
+
+Debate over a possible third term for Ghazouani has complicated national dialogue, per a June dispatch. It frames the domestic politics behind the opposition's moves.
 
 7. Alliance of Sahel States (AES), ECOWAS and regional diplomacy.
 
-AES and ECOWAS opened formal talks in October (Dakar), with no framework deal reported as of 25 November. Sources differ on dates (17 versus 20 October).
+AES members validated three shared health mechanisms on 27 November (unconfirmed, single source). It continues the drive toward joint institutions.
 
-AES ministers met in Ouagadougou on 11 to 12 November to review the year-two roadmap. They condemned terrorism and regretted Guinea's expulsions of African nationals; the roadmap content was not published per one source.
+The AES held its first education ministers' conference in Niamey on 10 to 11 November. Together with the health step, it points to a sector-by-sector build-out.
 
-The AES launched a joint channel, Tafouk TV, to push a sovereignty-focused narrative. Treat its output as junta-controlled media.
+Earlier this year the AES launched a unified military force of about 5,000 troops and named Burkina's Ibrahim Traoré head of the alliance at the December 2025 Bamako summit. Older context, but still the baseline for the ECOWAS split.
+
+ECOWAS is deploying a regional standby force, per Al Jazeera in March. It remains a counterweight that the AES rejects.
 
 8. Jihadist groups (JNIM, Islamic State Sahel, ISWAP) and spillover to coastal West Africa and Nigeria.
 
-Boko Haram/ISWAP pressure on Nigerian bases persists in the northeast. A local youth group reported attacks on military formations in Gwoza LGA on 17 November (unconfirmed; no army confirmation found).
+JNIM and Islamic State Sahel are in open conflict, with Al Jazeera (13 November) arguing the state is losing ground as they fight each other. For analysts it is the key structural dynamic in the central Sahel.
 
-Nigerian troops reportedly killed an ISWAP Shura Council member in Borno on or about 1 November (single-source).
+Suspected Boko Haram fighters renewed attacks on military sites in southern Borno, the latest on 17 November along Yamtake Road in Gwoza, according to an advocacy group's account. No casualty figure or army confirmation was found (unconfirmed).
 
-Context: about 15 soldiers were reportedly killed at Mairari, Borno, in mid-October, and the army claimed 48 fighters killed in Yobe on 30 October. The latter is a military claim.
+Nigerian troops said they killed 48 ISWAP fighters in a five-hour battle in Yobe on 30 October. This is a military claim, unverified.
 
-Coastal West Africa: no dated reporting found in this run.
+ISWAP reportedly killed about 15 soldiers in a mid-October base attack in Borno, after which the army chief visited troops. It shows ISWAP's continued base-overrun capability.
+
+No coastal West Africa (Benin, Togo) incident from the last 72 hours was retrievable.
 
 9. Russia's Africa Corps and other outside powers (France, US, Turkey, UAE, China)
 
-Africa Corps is operating alongside the Malian army in Kidal region and Tonka. Claims of its strikes on civilians come from JNIM and are unverified.
+Africa Corps personnel were the target of the 2 November JNIM IED claim near Sévaré-Konna. It shows Russian forces sharing the exposure of Malian convoys.
 
-Earlier in the year, Africa Corps disputed JNIM's claim to have taken Hombori base during the 25 April offensive, in which Defence Minister Sadio Camara was reportedly killed.
+French military aircraft are to make a technical stopover in Chad linked to an exercise running 8 to 30 November in Côte d'Ivoire and Gabon (single source, unconfirmed). Chad ended its defence accord with France in 2024, so even a brief stop is politically notable.
 
-Nothing found on France, US, Turkey, UAE or China in the last 72 hours.
+About 2,000 Russian personnel were reported across the three AES states as of March. An older estimate.
+
+Quiet: nothing found on the US, Turkey, UAE or China in the last 72 hours.
 
 10. Humanitarian situation and migration routes.
 
-Villages in central Mali have reportedly emptied after clashes around Léré and Boulkessi (unconfirmed).
+The regional food-security body CILSS warned of fodder and water deficits affecting over 60% of the Sahelian zone (per the 27 November allAfrica review, unconfirmed). It points to a hard pastoral dry season.
 
-An explainer cites roughly 4 million people uprooted across the AES states. Not a fresh figure.
+OCHA estimated about 24.3 million people in the Sahel needing urgent aid in 2026. This is a UN figure from early in the year; aid funding is reportedly at a ten-year low.
 
-Quiet on migration routes: nothing significant found in the last 72 hours.
+UNHCR called on 9 October for urgent investment as displacement deepens across the Central Sahel. Only the headline was visible to me.
+
+Nothing on migration routes within 72 hours was retrievable.
 
 11. Economy, mining and energy.
 
-JNIM's fuel-convoy blockade strategy, in place since September 2025, remains a drag on Mali's supply routes. The Tonka ultimatum suggests the tactic is spreading.
+Barrick and Mali's government appear to be restarting dialogue after the 2025 settlement, with a reported 25 November meeting in Bamako (unconfirmed). Mali's gold revenue depends on the complex's recovery.
 
-Burkina Faso opened its first gold refinery, Raffinor, in Ouagadougou on 28 September. The presidency framed it as economic independence.
+Barrick signed a collective agreement with unions at Loulo-Gounkoto in late September, easing a strike threat. It removes one operational risk.
 
-Mauritania reportedly ordered a European fishing fleet out of its waters (date unconfirmed).
+The IMF warned on 12 November of financing and debt risks in the CEMAC zone (Chad's monetary area). It is context for Chad's budget pressures.
+
+A Franco-Mauritanian business forum was reported for 26 November in Nouakchott, year unconfirmed.
 
 What to watch.
 
-27 November: Tonka deadline expires; watch for a JNIM blockade and any army/Africa Corps response.
+Niger, next days: official confirmation or revision of the reported 13-soldier toll in Tillabéri.
 
-Coming days: whether JNIM or the FLA targets Tessalit and Tinzaouaten, which are outside government control.
+7 December: Mali's national exports day in Bamako.
 
-Coming week: any AES-ECOWAS framework or free-movement announcement after the Dakar rounds.
+13 December: reported partial legislative election in Assoungha, Chad.
 
-Tillabéri (Niger): official toll and attribution for the Téra attacks.
+Early December: any Mali-Barrick follow-up after the 25 to 26 November visit.
 
-Borno/Yobe (Nigeria): army confirmation of the 17 November Gwoza reports and further base assaults.
+Rolling: Mauritania's political fallout from Biram Dah Abeid's resignation and a possible by-election.
 
-Burkina Faso: further reporting on JNIM-IS Sahel fighting in Oudalan.
+Rolling: JNIM versus Islamic State Sahel clashes in Burkina and Mali, and ISWAP activity in Borno and Yobe.
 
 That's the end of your Sahel briefing. Sources are on your dashboard.
